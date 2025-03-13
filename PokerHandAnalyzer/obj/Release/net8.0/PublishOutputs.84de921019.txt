@@ -1,0 +1,7 @@
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Release\net8.0\PubTmp\Out\PokerHandAnalyzer.exe
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Release\net8.0\PubTmp\Out\PokerHandAnalyzer.dll
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Release\net8.0\PubTmp\Out\PokerHandAnalyzer.deps.json
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Release\net8.0\PubTmp\Out\PokerHandAnalyzer.runtimeconfig.json
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Release\net8.0\PubTmp\Out\PokerHandAnalyzer.pdb
