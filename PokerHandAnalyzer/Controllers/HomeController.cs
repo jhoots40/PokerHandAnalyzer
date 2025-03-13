@@ -13,9 +13,30 @@ public class HomeController : Controller
         _logger = logger;
     }
 
+    [HttpGet]
     public IActionResult Index()
     {
-        return View();
+        return View(new PokerHandModel()); // Pass an empty model on initial load
+    }
+
+    [HttpPost]
+    public IActionResult Index(PokerHandModel model)
+    {
+        if (!ModelState.IsValid)
+        {
+            return View(model); // Return view with validation errors
+        }
+
+        if (model.HasDuplicateCards())
+        {
+            ModelState.AddModelError("", "Duplicate cards are not allowed.");
+            return View(model);
+        }
+
+        // Process the hand (replace with actual poker logic)
+        model.ResultMessage = "Hand analysis completed successfully!";
+
+        return View(model);
     }
 
     public IActionResult Privacy()
