@@ -32,3 +32,4 @@ C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Debug\net8.0
 C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Debug\net8.0\PokerHandAnalyzer.pdb
 C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Debug\net8.0\PokerHandAnalyzer.genruntimeconfig.cache
 C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Debug\net8.0\ref\PokerHandAnalyzer.dll
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerHandAnalyzer\obj\Debug\net8.0\PokerHandAnalyzer.sourcelink.json

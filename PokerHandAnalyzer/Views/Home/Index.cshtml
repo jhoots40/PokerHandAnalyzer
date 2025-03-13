@@ -2,7 +2,85 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<form id="handForm" class="d-flex flex-column align-items-center gap-2">
+    <div class="row w-25">
+        <div class="col">
+            <input id="heroHand" type="text" class="form-control" placeholder="Hero Hand">
+            <div class="invalid-feedback">Enter a valid poker hand (e.g., "AsKs").</div>
+        </div>
+        <div class="col">
+            <input id="villainHand" type="text" class="form-control" placeholder="Villain Hand">
+            <div class="invalid-feedback">Enter a valid poker hand (e.g., "QhJh").</div>
+        </div>
+    </div>
+    <div class="row w-25">
+        <div class="col">
+            <input id="communityCards" type="text" class="form-control" placeholder="Community Cards">
+            <div class="invalid-feedback">Enter 3 or 4 valid cards (e.g., "AsKsQc").</div>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Analyze Hand</button>
+</form>
+
+<script>
+    document.getElementById("handForm").addEventListener("submit", function (event) {
+        event.preventDefault(); // Prevent form submission
+
+        let isValid = true;
+        const handPattern = /^(A|K|Q|T|[2-9])(h|d|c|s)(A|K|Q|T|[2-9])(h|d|c|s)$/;
+        const communityPattern = /^((A|K|Q|T|[2-9])(h|d|c|s)){3,4}$/;
+
+        // Validate Hero and Villain Hands
+        ['heroHand', 'villainHand'].forEach(id => {
+            let input = document.getElementById(id);
+            let value = input.value.trim();
+
+            if (!handPattern.test(value)) {
+                input.classList.add("is-invalid");
+                isValid = false;
+            } else {
+                input.classList.remove("is-invalid");
+            }
+        });
+
+        // Validate Community Cards (3 or 4 valid cards)
+        let communityInput = document.getElementById("communityCards");
+        let communityValue = communityInput.value.trim();
+
+        if (!communityPattern.test(communityValue)) {
+            communityInput.classList.add("is-invalid");
+            isValid = false;
+        } else {
+            communityInput.classList.remove("is-invalid");
+        }
+
+        // Check for duplicate cards across all inputs
+        if (isValid && hasDuplicates()) {
+            alert("Error: Duplicate cards detected!");
+            isValid = false;
+        }
+
+        if (isValid) {
+            alert("Valid hands entered!");
+            this.submit(); // Uncomment for actual submission
+        }
+    });
+
+    // Function to check for duplicate cards
+    function hasDuplicates() {
+        let heroHand = document.getElementById("heroHand").value.trim();
+        let villainHand = document.getElementById("villainHand").value.trim();
+        let communityCards = document.getElementById("communityCards").value.trim();
+
+        let allCards = (heroHand + villainHand + communityCards).match(/.{2}/g); // Splits input into "Xy" card format
+
+        if (!allCards) return false; // No cards to check
+
+        let seen = new Set();
+        for (let card of allCards) {
+            if (seen.has(card)) return true; // Duplicate found
+            seen.add(card);
+        }
+        return false;
+    }
+</script>
