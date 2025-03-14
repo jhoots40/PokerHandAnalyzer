@@ -1,6 +1,9 @@
 using System.Diagnostics;
+using System.Reflection.Metadata;
 using Microsoft.AspNetCore.Mvc;
+using PokerEquityCalculator;
 using PokerHandAnalyzer.Models;
+using PokerHandAnalyzer.Services;
 
 namespace PokerHandAnalyzer.Controllers;
 
@@ -33,8 +36,14 @@ public class HomeController : Controller
             return View(model);
         }
 
+        // Initialize PokerService
+        var pokerService = new PokerService();
+
+        // Call equity calculation
+        List<Double> equities = pokerService.GetEquity(model.HeroHand, model.VillainHand, model.CommunityCards);
+
         // Process the hand (replace with actual poker logic)
-        model.ResultMessage = "Hand analysis completed successfully!";
+        model.ResultMessage = $"Hero Equity: {equities[0]} Villian Equity: {equities[1]}";
 
         return View(model);
     }

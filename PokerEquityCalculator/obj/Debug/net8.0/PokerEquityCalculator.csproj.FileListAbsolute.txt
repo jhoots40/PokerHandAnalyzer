@@ -1,0 +1,12 @@
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\obj\Debug\net8.0\PokerEquityCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\obj\Debug\net8.0\PokerEquityCalculator.AssemblyInfoInputs.cache
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\obj\Debug\net8.0\PokerEquityCalculator.AssemblyInfo.cs
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\obj\Debug\net8.0\PokerEquityCalculator.csproj.CoreCompileInputs.cache
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\obj\Debug\net8.0\PokerEquityCalculator.sourcelink.json
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\bin\Debug\net8.0\PokerEquityCalculator.deps.json
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\bin\Debug\net8.0\PokerEquityCalculator.dll
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\bin\Debug\net8.0\PokerEquityCalculator.pdb
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\obj\Debug\net8.0\PokerEquityCalculator.dll
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\obj\Debug\net8.0\refint\PokerEquityCalculator.dll
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\obj\Debug\net8.0\PokerEquityCalculator.pdb
+C:\Users\houts\source\repos\PokerHandAnalyzer\PokerEquityCalculator\obj\Debug\net8.0\ref\PokerEquityCalculator.dll
