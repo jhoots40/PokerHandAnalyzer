@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "PokerHandAnalyzer/1.0.0": {
+        "dependencies": {
+          "PokerEquityCalculator": "1.0.0"
+        },
         "runtime": {
           "PokerHandAnalyzer.dll": {}
+        }
+      },
+      "PokerEquityCalculator/1.0.0": {
+        "runtime": {
+          "PokerEquityCalculator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "PokerHandAnalyzer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PokerEquityCalculator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
