@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zw9epXcOyShPWqrpl7drChWZgYjuWdETd66eWlhzg3E=",
+  "Hash": "FsixEcaUVvaclGSKV/GDyYK6pzpSlXPhPa0m38Mwh3w=",
   "Source": "PokerHandAnalyzer",
   "BasePath": "_content/PokerHandAnalyzer",
   "Mode": "Default",
@@ -99,6 +99,1119 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2c.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/2c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xku2fad7wq",
+      "Integrity": "r5GjfPbVIPnQOKw27C2tae+6RMqpYvA2+BjGsxEVFTE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\2c.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2d.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/2d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "856kwz3h7c",
+      "Integrity": "5KeCZaiA62bnlRzrWR0r0FljRtr4IN/uYBgZl0J7Goc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\2d.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2h.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/2h#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "elnbsqxmhl",
+      "Integrity": "zt+FRCc3K1bfKEj6BK5tdEyDFVzIErSEiI0Nv1bgHow=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\2h.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2s.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/2s#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tzbjw0d2rj",
+      "Integrity": "eTMJtr8E+Rh3VMGh2VKfNiNPepM32++Q3zn1aRJLRuY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\2s.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3c.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/3c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "71xyej88u3",
+      "Integrity": "RapRZu70tQOjPOoLE9taNjdg/ig0oAcpGLirvQo0dbQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\3c.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3d.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/3d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g5l4kcnz00",
+      "Integrity": "7EdPSvp8FE7x9tu0X+lsqY4qiWxJ8LKPGqceryoIgVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\3d.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3h.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/3h#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l9qyvtws8n",
+      "Integrity": "hzMDgF8Igz+JtBABaP+UVv07+3N+49+C/E0r9cMoR4Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\3h.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3s.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/3s#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xyf767eotc",
+      "Integrity": "Z5GABPX04OLadVoCLRN+kahdy7I3LD4CZRf+ovSXCFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\3s.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4c.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/4c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "445iw2ucor",
+      "Integrity": "nM2WDSqdGrXznhLpevXh1AlLFDLkV9fLF+Ib5n7lr8o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\4c.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4d.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/4d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hbdt9ea377",
+      "Integrity": "UxYr3qYQS5/ds5cSunj5gZ5KJLE1hllJn6icI/6Kloc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\4d.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4h.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/4h#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sww4orydck",
+      "Integrity": "ZLxAHQT1iW3bYvpMCQ4N6VW88rr2mrlChHk2OAUOMOY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\4h.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4s.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/4s#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tgnd213eb9",
+      "Integrity": "87EESG91fV7lXfcREUwlj81pHJomkvvQmxKpDBe//xk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\4s.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5c.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/5c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27ttgdfmb1",
+      "Integrity": "8vJbsPnV8CSUJii9TJdFXMYJTjV3xaEb1L2GtJZ83I4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\5c.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5d.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/5d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q71da0babx",
+      "Integrity": "mj7jucUYxFXeeeyDj6BbZpDNngEpdamca0feFOaOsF4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\5d.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5h.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/5h#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2phe86j4zh",
+      "Integrity": "6p5qTBLfa2exjIJ1sx5AHl1L7ZTXGWuaReqRHHP+9S0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\5h.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5s.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/5s#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0uxazo6ti3",
+      "Integrity": "yMzdjepFlZxa6j8USrCTUzEP0MIUHRVgkNpjwNR1EWM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\5s.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6c.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/6c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rjnwi0m1d6",
+      "Integrity": "NzFjXuGArVQd9fC+USjMdwnv50i7qzfcyjGBI0N1wjY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\6c.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6d.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/6d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zn7flktr2x",
+      "Integrity": "j2kFPm+JuEhrDjHjz7UWy3KHZl3Ka9CIOlCRd3W2DJI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\6d.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6h.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/6h#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fphk0v5sr1",
+      "Integrity": "XT0OOjWGT1Gv25N7xWutAsNjct1MQaaqKjkPjpNiAvo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\6h.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6s.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/6s#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f6wa210yho",
+      "Integrity": "ZydbX47iwrRnjMjPnkumiTLGHatfunapvz1LlS+SWBI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\6s.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7c.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/7c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vh8d99eabh",
+      "Integrity": "vcYv8YZu9aSdt/8p9fRR1nTygv/C93jm4uItrhDNbnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\7c.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7d.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/7d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ykutodrvls",
+      "Integrity": "7uMzuuPKqzSSuNcHOpAjWsqs/AaLjqZO6NzSQoBPnHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\7d.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7h.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/7h#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "izcid5s4ub",
+      "Integrity": "wsxnZcZ4t2Hr93S32L0gKbQjxSe8TT1FS/ltjPB70JU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\7h.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7s.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/7s#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3mxy4nofgt",
+      "Integrity": "VaH4YYPI/kLZoTpKwvatQDrWmTS31y9apQZBBKSCLL4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\7s.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8c.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/8c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "icn5y1ul7n",
+      "Integrity": "jtTHUPGACeatmsVtt5mp6uehqUuQ2PYqxW+RXuiW9hE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\8c.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8d.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/8d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "of1jzj5s47",
+      "Integrity": "/PKcETh9ZSrD1OuDsnB8rKSoIQWvaxJcVwVh5yIb1R4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\8d.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8h.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/8h#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6aghycwrh5",
+      "Integrity": "rj7rPW9HmSp1eB9ckYxQW9YH11XkurqHoDFblQlBW2U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\8h.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8s.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/8s#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oxskb3kzhv",
+      "Integrity": "hFmaSFW9srfj3SwwKEypWd05bjEjo865xtHdZ1zKRSA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\8s.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9c.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/9c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fsa5hzbd47",
+      "Integrity": "39IqBpn/ycdwO/Qr2W+ra83WV5ONlqX6HBNbbCh0v5o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\9c.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9d.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/9d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7phz9leub",
+      "Integrity": "Js9ElzP+uEWliuBpeWJ/VHiXsnHfmw5KgTc+BY5jPwk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\9d.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9h.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/9h#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "80wtkeh2sy",
+      "Integrity": "SGN7dDxdzu15qXLhm1zNpcOE1QsOn5/9OyKKLVoqA5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\9h.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9s.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/9s#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6q9vxa3y78",
+      "Integrity": "/huHQL4Zzrdrmc7j5Y5gt5PGGi7GN26SfJOor9RsYj8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\9s.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ac.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Ac#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h936sviota",
+      "Integrity": "+xF6wVN201Kn4SpsH1TesD4fgb0plHBJ5wzp0BI8bkE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Ac.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ad.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Ad#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cm8scodqyo",
+      "Integrity": "pFbPe4GayvA2toNV4EpYvyt1xBG/BQIcUtc9lWFjhn0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Ad.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ah.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Ah#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "padetme9pr",
+      "Integrity": "L1C8+sP6FLL3Y3OTN34e53w3RzuBDoh6yVtJpvCa7RM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Ah.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\As.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/As#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90w3k2omyy",
+      "Integrity": "N1+69z2UDfaEw2S9tz54BKgzya2pMnRVQCiDCUseeWM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\As.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\cardBackGreen.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/cardBackGreen#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "shoic98t5i",
+      "Integrity": "gFxz1xQTk8ZFIwmNsF6S/GDesv1OQkyWqMu28vIt7tg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\cardBackGreen.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jc.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Jc#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h678iglq57",
+      "Integrity": "p8fi4zawMUHhsOrT1d1QO+ZSbh4EmOg91VHHDVBJmNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Jc.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jd.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Jd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b3i9ehe5fx",
+      "Integrity": "15VPQEZGQXFKr32PbjYjPqeOVdtc6nJ/VNin5yB5MN8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Jd.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jh.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Jh#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kr6m9egg7p",
+      "Integrity": "wGzbMK1+5Npwf9anUU40bFSRqctAat0MZV/kdziI0fA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Jh.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Js.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Js#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dpmby2d3zr",
+      "Integrity": "T35dGBoV4bfDyrNj6TQUDxkD7Np+Vaq7bT1X353ioWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Js.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kc.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Kc#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qxbzg3jfck",
+      "Integrity": "LhPzV7HEaJhh3lLuJLW1lp4gkDqedrFIEHcHFuo5aZw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Kc.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kd.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Kd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pqdapbiphw",
+      "Integrity": "73Z+ItF+TqiK6o7mWdnzZBuZkG1n++bp8wa327SRdTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Kd.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kh.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Kh#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ydyx9rykwz",
+      "Integrity": "VkFHgpi+uqdYl99r9SkKmkeMbhOsP3uXlKNh0tB2SUQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Kh.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ks.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Ks#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m5ex0kb1c8",
+      "Integrity": "6oXcDqFNK2dpyLuRJI1r3Rb0KHx5YuxH/ITimsOsTCk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Ks.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qc.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Qc#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ul84lyvu4a",
+      "Integrity": "bo6eN1w+jK7WeAlSrd5Mc84tN97Oc833bYrdnAs9sv4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Qc.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qd.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Qd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9tth7pslt",
+      "Integrity": "Y/YDUpyA6X8hl/cD6kw+dqV6T8cfkMDdrjJKbcHP4jM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Qd.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qh.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Qh#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "clk1tvh1wn",
+      "Integrity": "gHiTgkJ0mKnU6gSlYuFD94dQXuzoK5EPmaZml5BFLAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Qh.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qs.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Qs#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ch64fm5x3o",
+      "Integrity": "0BDSLRRNPxVpXgN1+LeDJwXMEOzDOhjat9TtTRXG/f4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Qs.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Tc.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Tc#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yk609darql",
+      "Integrity": "roGZlLn/KMq7N29BCcvgjp6iRLmFmAict4czXKQqoVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Tc.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Td.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Td#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gm6f7zn619",
+      "Integrity": "SJK33+iZrookNkjXOqILkg2KT3bmbGjFcH5kfVbVFoI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Td.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Th.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Th#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b9aoanyhqn",
+      "Integrity": "769uN1BSyQ5dYYJViwpiA1vxvL1e3zico11pph0YO00=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Th.png"
+    },
+    {
+      "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ts.png",
+      "SourceId": "PokerHandAnalyzer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\",
+      "BasePath": "_content/PokerHandAnalyzer",
+      "RelativePath": "images/cards/Ts#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90m94io2s1",
+      "Integrity": "qePivQwVg4Nn3TlUuYnquQIHfyW8Q8/ygeHoxuWhAw4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cards\\Ts.png"
     },
     {
       "Identity": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\js\\site.js",
@@ -1481,6 +2594,4352 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/2c.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r5GjfPbVIPnQOKw27C2tae+6RMqpYvA2+BjGsxEVFTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r5GjfPbVIPnQOKw27C2tae+6RMqpYvA2+BjGsxEVFTE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/2c.xku2fad7wq.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r5GjfPbVIPnQOKw27C2tae+6RMqpYvA2+BjGsxEVFTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xku2fad7wq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/2c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r5GjfPbVIPnQOKw27C2tae+6RMqpYvA2+BjGsxEVFTE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/2d.856kwz3h7c.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5KeCZaiA62bnlRzrWR0r0FljRtr4IN/uYBgZl0J7Goc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "856kwz3h7c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/2d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5KeCZaiA62bnlRzrWR0r0FljRtr4IN/uYBgZl0J7Goc="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/2d.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5KeCZaiA62bnlRzrWR0r0FljRtr4IN/uYBgZl0J7Goc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5KeCZaiA62bnlRzrWR0r0FljRtr4IN/uYBgZl0J7Goc="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/2h.elnbsqxmhl.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zt+FRCc3K1bfKEj6BK5tdEyDFVzIErSEiI0Nv1bgHow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "elnbsqxmhl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/2h.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zt+FRCc3K1bfKEj6BK5tdEyDFVzIErSEiI0Nv1bgHow="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/2h.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zt+FRCc3K1bfKEj6BK5tdEyDFVzIErSEiI0Nv1bgHow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zt+FRCc3K1bfKEj6BK5tdEyDFVzIErSEiI0Nv1bgHow="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/2s.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eTMJtr8E+Rh3VMGh2VKfNiNPepM32++Q3zn1aRJLRuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eTMJtr8E+Rh3VMGh2VKfNiNPepM32++Q3zn1aRJLRuY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/2s.tzbjw0d2rj.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eTMJtr8E+Rh3VMGh2VKfNiNPepM32++Q3zn1aRJLRuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tzbjw0d2rj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/2s.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eTMJtr8E+Rh3VMGh2VKfNiNPepM32++Q3zn1aRJLRuY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/3c.71xyej88u3.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RapRZu70tQOjPOoLE9taNjdg/ig0oAcpGLirvQo0dbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "71xyej88u3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/3c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RapRZu70tQOjPOoLE9taNjdg/ig0oAcpGLirvQo0dbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/3c.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RapRZu70tQOjPOoLE9taNjdg/ig0oAcpGLirvQo0dbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RapRZu70tQOjPOoLE9taNjdg/ig0oAcpGLirvQo0dbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/3d.g5l4kcnz00.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7EdPSvp8FE7x9tu0X+lsqY4qiWxJ8LKPGqceryoIgVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g5l4kcnz00"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/3d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7EdPSvp8FE7x9tu0X+lsqY4qiWxJ8LKPGqceryoIgVU="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/3d.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7EdPSvp8FE7x9tu0X+lsqY4qiWxJ8LKPGqceryoIgVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7EdPSvp8FE7x9tu0X+lsqY4qiWxJ8LKPGqceryoIgVU="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/3h.l9qyvtws8n.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hzMDgF8Igz+JtBABaP+UVv07+3N+49+C/E0r9cMoR4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l9qyvtws8n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/3h.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hzMDgF8Igz+JtBABaP+UVv07+3N+49+C/E0r9cMoR4Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/3h.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hzMDgF8Igz+JtBABaP+UVv07+3N+49+C/E0r9cMoR4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hzMDgF8Igz+JtBABaP+UVv07+3N+49+C/E0r9cMoR4Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/3s.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z5GABPX04OLadVoCLRN+kahdy7I3LD4CZRf+ovSXCFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z5GABPX04OLadVoCLRN+kahdy7I3LD4CZRf+ovSXCFg="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/3s.xyf767eotc.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z5GABPX04OLadVoCLRN+kahdy7I3LD4CZRf+ovSXCFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xyf767eotc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/3s.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z5GABPX04OLadVoCLRN+kahdy7I3LD4CZRf+ovSXCFg="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/4c.445iw2ucor.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nM2WDSqdGrXznhLpevXh1AlLFDLkV9fLF+Ib5n7lr8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "445iw2ucor"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/4c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nM2WDSqdGrXznhLpevXh1AlLFDLkV9fLF+Ib5n7lr8o="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/4c.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nM2WDSqdGrXznhLpevXh1AlLFDLkV9fLF+Ib5n7lr8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nM2WDSqdGrXznhLpevXh1AlLFDLkV9fLF+Ib5n7lr8o="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/4d.hbdt9ea377.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UxYr3qYQS5/ds5cSunj5gZ5KJLE1hllJn6icI/6Kloc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hbdt9ea377"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/4d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UxYr3qYQS5/ds5cSunj5gZ5KJLE1hllJn6icI/6Kloc="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/4d.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UxYr3qYQS5/ds5cSunj5gZ5KJLE1hllJn6icI/6Kloc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UxYr3qYQS5/ds5cSunj5gZ5KJLE1hllJn6icI/6Kloc="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/4h.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZLxAHQT1iW3bYvpMCQ4N6VW88rr2mrlChHk2OAUOMOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZLxAHQT1iW3bYvpMCQ4N6VW88rr2mrlChHk2OAUOMOY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/4h.sww4orydck.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZLxAHQT1iW3bYvpMCQ4N6VW88rr2mrlChHk2OAUOMOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sww4orydck"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/4h.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZLxAHQT1iW3bYvpMCQ4N6VW88rr2mrlChHk2OAUOMOY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/4s.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"87EESG91fV7lXfcREUwlj81pHJomkvvQmxKpDBe//xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-87EESG91fV7lXfcREUwlj81pHJomkvvQmxKpDBe//xk="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/4s.tgnd213eb9.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"87EESG91fV7lXfcREUwlj81pHJomkvvQmxKpDBe//xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgnd213eb9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/4s.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-87EESG91fV7lXfcREUwlj81pHJomkvvQmxKpDBe//xk="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/5c.27ttgdfmb1.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8vJbsPnV8CSUJii9TJdFXMYJTjV3xaEb1L2GtJZ83I4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27ttgdfmb1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/5c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8vJbsPnV8CSUJii9TJdFXMYJTjV3xaEb1L2GtJZ83I4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/5c.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8vJbsPnV8CSUJii9TJdFXMYJTjV3xaEb1L2GtJZ83I4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8vJbsPnV8CSUJii9TJdFXMYJTjV3xaEb1L2GtJZ83I4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/5d.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mj7jucUYxFXeeeyDj6BbZpDNngEpdamca0feFOaOsF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mj7jucUYxFXeeeyDj6BbZpDNngEpdamca0feFOaOsF4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/5d.q71da0babx.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mj7jucUYxFXeeeyDj6BbZpDNngEpdamca0feFOaOsF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q71da0babx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/5d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mj7jucUYxFXeeeyDj6BbZpDNngEpdamca0feFOaOsF4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/5h.2phe86j4zh.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6p5qTBLfa2exjIJ1sx5AHl1L7ZTXGWuaReqRHHP+9S0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2phe86j4zh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/5h.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6p5qTBLfa2exjIJ1sx5AHl1L7ZTXGWuaReqRHHP+9S0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/5h.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6p5qTBLfa2exjIJ1sx5AHl1L7ZTXGWuaReqRHHP+9S0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6p5qTBLfa2exjIJ1sx5AHl1L7ZTXGWuaReqRHHP+9S0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/5s.0uxazo6ti3.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yMzdjepFlZxa6j8USrCTUzEP0MIUHRVgkNpjwNR1EWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0uxazo6ti3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/5s.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yMzdjepFlZxa6j8USrCTUzEP0MIUHRVgkNpjwNR1EWM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/5s.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yMzdjepFlZxa6j8USrCTUzEP0MIUHRVgkNpjwNR1EWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yMzdjepFlZxa6j8USrCTUzEP0MIUHRVgkNpjwNR1EWM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/6c.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NzFjXuGArVQd9fC+USjMdwnv50i7qzfcyjGBI0N1wjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NzFjXuGArVQd9fC+USjMdwnv50i7qzfcyjGBI0N1wjY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/6c.rjnwi0m1d6.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NzFjXuGArVQd9fC+USjMdwnv50i7qzfcyjGBI0N1wjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rjnwi0m1d6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/6c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NzFjXuGArVQd9fC+USjMdwnv50i7qzfcyjGBI0N1wjY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/6d.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2kFPm+JuEhrDjHjz7UWy3KHZl3Ka9CIOlCRd3W2DJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j2kFPm+JuEhrDjHjz7UWy3KHZl3Ka9CIOlCRd3W2DJI="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/6d.zn7flktr2x.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2kFPm+JuEhrDjHjz7UWy3KHZl3Ka9CIOlCRd3W2DJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zn7flktr2x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/6d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j2kFPm+JuEhrDjHjz7UWy3KHZl3Ka9CIOlCRd3W2DJI="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/6h.fphk0v5sr1.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XT0OOjWGT1Gv25N7xWutAsNjct1MQaaqKjkPjpNiAvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fphk0v5sr1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/6h.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XT0OOjWGT1Gv25N7xWutAsNjct1MQaaqKjkPjpNiAvo="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/6h.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XT0OOjWGT1Gv25N7xWutAsNjct1MQaaqKjkPjpNiAvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XT0OOjWGT1Gv25N7xWutAsNjct1MQaaqKjkPjpNiAvo="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/6s.f6wa210yho.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZydbX47iwrRnjMjPnkumiTLGHatfunapvz1LlS+SWBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f6wa210yho"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/6s.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZydbX47iwrRnjMjPnkumiTLGHatfunapvz1LlS+SWBI="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/6s.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZydbX47iwrRnjMjPnkumiTLGHatfunapvz1LlS+SWBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZydbX47iwrRnjMjPnkumiTLGHatfunapvz1LlS+SWBI="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/7c.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vcYv8YZu9aSdt/8p9fRR1nTygv/C93jm4uItrhDNbnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vcYv8YZu9aSdt/8p9fRR1nTygv/C93jm4uItrhDNbnM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/7c.vh8d99eabh.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vcYv8YZu9aSdt/8p9fRR1nTygv/C93jm4uItrhDNbnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vh8d99eabh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/7c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vcYv8YZu9aSdt/8p9fRR1nTygv/C93jm4uItrhDNbnM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/7d.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7uMzuuPKqzSSuNcHOpAjWsqs/AaLjqZO6NzSQoBPnHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7uMzuuPKqzSSuNcHOpAjWsqs/AaLjqZO6NzSQoBPnHs="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/7d.ykutodrvls.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7uMzuuPKqzSSuNcHOpAjWsqs/AaLjqZO6NzSQoBPnHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ykutodrvls"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/7d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7uMzuuPKqzSSuNcHOpAjWsqs/AaLjqZO6NzSQoBPnHs="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/7h.izcid5s4ub.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wsxnZcZ4t2Hr93S32L0gKbQjxSe8TT1FS/ltjPB70JU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "izcid5s4ub"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/7h.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wsxnZcZ4t2Hr93S32L0gKbQjxSe8TT1FS/ltjPB70JU="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/7h.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wsxnZcZ4t2Hr93S32L0gKbQjxSe8TT1FS/ltjPB70JU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wsxnZcZ4t2Hr93S32L0gKbQjxSe8TT1FS/ltjPB70JU="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/7s.3mxy4nofgt.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VaH4YYPI/kLZoTpKwvatQDrWmTS31y9apQZBBKSCLL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3mxy4nofgt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/7s.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VaH4YYPI/kLZoTpKwvatQDrWmTS31y9apQZBBKSCLL4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/7s.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VaH4YYPI/kLZoTpKwvatQDrWmTS31y9apQZBBKSCLL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VaH4YYPI/kLZoTpKwvatQDrWmTS31y9apQZBBKSCLL4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/8c.icn5y1ul7n.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jtTHUPGACeatmsVtt5mp6uehqUuQ2PYqxW+RXuiW9hE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "icn5y1ul7n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/8c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jtTHUPGACeatmsVtt5mp6uehqUuQ2PYqxW+RXuiW9hE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/8c.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jtTHUPGACeatmsVtt5mp6uehqUuQ2PYqxW+RXuiW9hE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jtTHUPGACeatmsVtt5mp6uehqUuQ2PYqxW+RXuiW9hE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/8d.of1jzj5s47.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/PKcETh9ZSrD1OuDsnB8rKSoIQWvaxJcVwVh5yIb1R4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "of1jzj5s47"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/8d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/PKcETh9ZSrD1OuDsnB8rKSoIQWvaxJcVwVh5yIb1R4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/8d.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/PKcETh9ZSrD1OuDsnB8rKSoIQWvaxJcVwVh5yIb1R4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/PKcETh9ZSrD1OuDsnB8rKSoIQWvaxJcVwVh5yIb1R4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/8h.6aghycwrh5.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rj7rPW9HmSp1eB9ckYxQW9YH11XkurqHoDFblQlBW2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6aghycwrh5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/8h.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rj7rPW9HmSp1eB9ckYxQW9YH11XkurqHoDFblQlBW2U="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/8h.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rj7rPW9HmSp1eB9ckYxQW9YH11XkurqHoDFblQlBW2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rj7rPW9HmSp1eB9ckYxQW9YH11XkurqHoDFblQlBW2U="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/8s.oxskb3kzhv.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hFmaSFW9srfj3SwwKEypWd05bjEjo865xtHdZ1zKRSA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oxskb3kzhv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/8s.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hFmaSFW9srfj3SwwKEypWd05bjEjo865xtHdZ1zKRSA="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/8s.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hFmaSFW9srfj3SwwKEypWd05bjEjo865xtHdZ1zKRSA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hFmaSFW9srfj3SwwKEypWd05bjEjo865xtHdZ1zKRSA="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/9c.fsa5hzbd47.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"39IqBpn/ycdwO/Qr2W+ra83WV5ONlqX6HBNbbCh0v5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fsa5hzbd47"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/9c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-39IqBpn/ycdwO/Qr2W+ra83WV5ONlqX6HBNbbCh0v5o="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/9c.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"39IqBpn/ycdwO/Qr2W+ra83WV5ONlqX6HBNbbCh0v5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-39IqBpn/ycdwO/Qr2W+ra83WV5ONlqX6HBNbbCh0v5o="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/9d.e7phz9leub.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Js9ElzP+uEWliuBpeWJ/VHiXsnHfmw5KgTc+BY5jPwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7phz9leub"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/9d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Js9ElzP+uEWliuBpeWJ/VHiXsnHfmw5KgTc+BY5jPwk="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/9d.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Js9ElzP+uEWliuBpeWJ/VHiXsnHfmw5KgTc+BY5jPwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Js9ElzP+uEWliuBpeWJ/VHiXsnHfmw5KgTc+BY5jPwk="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/9h.80wtkeh2sy.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGN7dDxdzu15qXLhm1zNpcOE1QsOn5/9OyKKLVoqA5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "80wtkeh2sy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/9h.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGN7dDxdzu15qXLhm1zNpcOE1QsOn5/9OyKKLVoqA5Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/9h.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9h.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGN7dDxdzu15qXLhm1zNpcOE1QsOn5/9OyKKLVoqA5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGN7dDxdzu15qXLhm1zNpcOE1QsOn5/9OyKKLVoqA5Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/9s.6q9vxa3y78.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/huHQL4Zzrdrmc7j5Y5gt5PGGi7GN26SfJOor9RsYj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6q9vxa3y78"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/9s.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/huHQL4Zzrdrmc7j5Y5gt5PGGi7GN26SfJOor9RsYj8="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/9s.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/huHQL4Zzrdrmc7j5Y5gt5PGGi7GN26SfJOor9RsYj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/huHQL4Zzrdrmc7j5Y5gt5PGGi7GN26SfJOor9RsYj8="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Ac.h936sviota.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ac.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xF6wVN201Kn4SpsH1TesD4fgb0plHBJ5wzp0BI8bkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h936sviota"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Ac.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xF6wVN201Kn4SpsH1TesD4fgb0plHBJ5wzp0BI8bkE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Ac.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ac.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xF6wVN201Kn4SpsH1TesD4fgb0plHBJ5wzp0BI8bkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xF6wVN201Kn4SpsH1TesD4fgb0plHBJ5wzp0BI8bkE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Ad.cm8scodqyo.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pFbPe4GayvA2toNV4EpYvyt1xBG/BQIcUtc9lWFjhn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cm8scodqyo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Ad.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pFbPe4GayvA2toNV4EpYvyt1xBG/BQIcUtc9lWFjhn0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Ad.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pFbPe4GayvA2toNV4EpYvyt1xBG/BQIcUtc9lWFjhn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pFbPe4GayvA2toNV4EpYvyt1xBG/BQIcUtc9lWFjhn0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Ah.padetme9pr.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ah.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L1C8+sP6FLL3Y3OTN34e53w3RzuBDoh6yVtJpvCa7RM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "padetme9pr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Ah.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L1C8+sP6FLL3Y3OTN34e53w3RzuBDoh6yVtJpvCa7RM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Ah.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ah.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L1C8+sP6FLL3Y3OTN34e53w3RzuBDoh6yVtJpvCa7RM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L1C8+sP6FLL3Y3OTN34e53w3RzuBDoh6yVtJpvCa7RM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/As.90w3k2omyy.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\As.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N1+69z2UDfaEw2S9tz54BKgzya2pMnRVQCiDCUseeWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90w3k2omyy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/As.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N1+69z2UDfaEw2S9tz54BKgzya2pMnRVQCiDCUseeWM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/As.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\As.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N1+69z2UDfaEw2S9tz54BKgzya2pMnRVQCiDCUseeWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N1+69z2UDfaEw2S9tz54BKgzya2pMnRVQCiDCUseeWM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/cardBackGreen.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\cardBackGreen.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "309362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gFxz1xQTk8ZFIwmNsF6S/GDesv1OQkyWqMu28vIt7tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:21:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gFxz1xQTk8ZFIwmNsF6S/GDesv1OQkyWqMu28vIt7tg="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/cardBackGreen.shoic98t5i.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\cardBackGreen.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "309362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gFxz1xQTk8ZFIwmNsF6S/GDesv1OQkyWqMu28vIt7tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:21:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "shoic98t5i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/cardBackGreen.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gFxz1xQTk8ZFIwmNsF6S/GDesv1OQkyWqMu28vIt7tg="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Jc.h678iglq57.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p8fi4zawMUHhsOrT1d1QO+ZSbh4EmOg91VHHDVBJmNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h678iglq57"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Jc.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p8fi4zawMUHhsOrT1d1QO+ZSbh4EmOg91VHHDVBJmNo="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Jc.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p8fi4zawMUHhsOrT1d1QO+ZSbh4EmOg91VHHDVBJmNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p8fi4zawMUHhsOrT1d1QO+ZSbh4EmOg91VHHDVBJmNo="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Jd.b3i9ehe5fx.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"15VPQEZGQXFKr32PbjYjPqeOVdtc6nJ/VNin5yB5MN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b3i9ehe5fx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Jd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-15VPQEZGQXFKr32PbjYjPqeOVdtc6nJ/VNin5yB5MN8="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Jd.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"15VPQEZGQXFKr32PbjYjPqeOVdtc6nJ/VNin5yB5MN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-15VPQEZGQXFKr32PbjYjPqeOVdtc6nJ/VNin5yB5MN8="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Jh.kr6m9egg7p.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jh.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wGzbMK1+5Npwf9anUU40bFSRqctAat0MZV/kdziI0fA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kr6m9egg7p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Jh.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wGzbMK1+5Npwf9anUU40bFSRqctAat0MZV/kdziI0fA="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Jh.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jh.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wGzbMK1+5Npwf9anUU40bFSRqctAat0MZV/kdziI0fA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wGzbMK1+5Npwf9anUU40bFSRqctAat0MZV/kdziI0fA="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Js.dpmby2d3zr.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Js.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T35dGBoV4bfDyrNj6TQUDxkD7Np+Vaq7bT1X353ioWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dpmby2d3zr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Js.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T35dGBoV4bfDyrNj6TQUDxkD7Np+Vaq7bT1X353ioWY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Js.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Js.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T35dGBoV4bfDyrNj6TQUDxkD7Np+Vaq7bT1X353ioWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T35dGBoV4bfDyrNj6TQUDxkD7Np+Vaq7bT1X353ioWY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Kc.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhPzV7HEaJhh3lLuJLW1lp4gkDqedrFIEHcHFuo5aZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhPzV7HEaJhh3lLuJLW1lp4gkDqedrFIEHcHFuo5aZw="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Kc.qxbzg3jfck.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhPzV7HEaJhh3lLuJLW1lp4gkDqedrFIEHcHFuo5aZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qxbzg3jfck"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Kc.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhPzV7HEaJhh3lLuJLW1lp4gkDqedrFIEHcHFuo5aZw="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Kd.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"73Z+ItF+TqiK6o7mWdnzZBuZkG1n++bp8wa327SRdTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-73Z+ItF+TqiK6o7mWdnzZBuZkG1n++bp8wa327SRdTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Kd.pqdapbiphw.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"73Z+ItF+TqiK6o7mWdnzZBuZkG1n++bp8wa327SRdTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pqdapbiphw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Kd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-73Z+ItF+TqiK6o7mWdnzZBuZkG1n++bp8wa327SRdTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Kh.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kh.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VkFHgpi+uqdYl99r9SkKmkeMbhOsP3uXlKNh0tB2SUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VkFHgpi+uqdYl99r9SkKmkeMbhOsP3uXlKNh0tB2SUQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Kh.ydyx9rykwz.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kh.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VkFHgpi+uqdYl99r9SkKmkeMbhOsP3uXlKNh0tB2SUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ydyx9rykwz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Kh.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VkFHgpi+uqdYl99r9SkKmkeMbhOsP3uXlKNh0tB2SUQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Ks.m5ex0kb1c8.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ks.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6oXcDqFNK2dpyLuRJI1r3Rb0KHx5YuxH/ITimsOsTCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m5ex0kb1c8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Ks.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6oXcDqFNK2dpyLuRJI1r3Rb0KHx5YuxH/ITimsOsTCk="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Ks.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ks.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6oXcDqFNK2dpyLuRJI1r3Rb0KHx5YuxH/ITimsOsTCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6oXcDqFNK2dpyLuRJI1r3Rb0KHx5YuxH/ITimsOsTCk="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Qc.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bo6eN1w+jK7WeAlSrd5Mc84tN97Oc833bYrdnAs9sv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bo6eN1w+jK7WeAlSrd5Mc84tN97Oc833bYrdnAs9sv4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Qc.ul84lyvu4a.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bo6eN1w+jK7WeAlSrd5Mc84tN97Oc833bYrdnAs9sv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ul84lyvu4a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Qc.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bo6eN1w+jK7WeAlSrd5Mc84tN97Oc833bYrdnAs9sv4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Qd.f9tth7pslt.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y/YDUpyA6X8hl/cD6kw+dqV6T8cfkMDdrjJKbcHP4jM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9tth7pslt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Qd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y/YDUpyA6X8hl/cD6kw+dqV6T8cfkMDdrjJKbcHP4jM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Qd.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y/YDUpyA6X8hl/cD6kw+dqV6T8cfkMDdrjJKbcHP4jM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y/YDUpyA6X8hl/cD6kw+dqV6T8cfkMDdrjJKbcHP4jM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Qh.clk1tvh1wn.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qh.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gHiTgkJ0mKnU6gSlYuFD94dQXuzoK5EPmaZml5BFLAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "clk1tvh1wn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Qh.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gHiTgkJ0mKnU6gSlYuFD94dQXuzoK5EPmaZml5BFLAI="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Qh.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qh.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gHiTgkJ0mKnU6gSlYuFD94dQXuzoK5EPmaZml5BFLAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gHiTgkJ0mKnU6gSlYuFD94dQXuzoK5EPmaZml5BFLAI="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Qs.ch64fm5x3o.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qs.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0BDSLRRNPxVpXgN1+LeDJwXMEOzDOhjat9TtTRXG/f4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ch64fm5x3o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Qs.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0BDSLRRNPxVpXgN1+LeDJwXMEOzDOhjat9TtTRXG/f4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Qs.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qs.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0BDSLRRNPxVpXgN1+LeDJwXMEOzDOhjat9TtTRXG/f4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0BDSLRRNPxVpXgN1+LeDJwXMEOzDOhjat9TtTRXG/f4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Tc.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Tc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"roGZlLn/KMq7N29BCcvgjp6iRLmFmAict4czXKQqoVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-roGZlLn/KMq7N29BCcvgjp6iRLmFmAict4czXKQqoVU="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Tc.yk609darql.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Tc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"roGZlLn/KMq7N29BCcvgjp6iRLmFmAict4czXKQqoVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:01:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yk609darql"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Tc.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-roGZlLn/KMq7N29BCcvgjp6iRLmFmAict4czXKQqoVU="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Td.gm6f7zn619.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Td.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SJK33+iZrookNkjXOqILkg2KT3bmbGjFcH5kfVbVFoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm6f7zn619"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Td.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SJK33+iZrookNkjXOqILkg2KT3bmbGjFcH5kfVbVFoI="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Td.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Td.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SJK33+iZrookNkjXOqILkg2KT3bmbGjFcH5kfVbVFoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SJK33+iZrookNkjXOqILkg2KT3bmbGjFcH5kfVbVFoI="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Th.b9aoanyhqn.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Th.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"769uN1BSyQ5dYYJViwpiA1vxvL1e3zico11pph0YO00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b9aoanyhqn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Th.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-769uN1BSyQ5dYYJViwpiA1vxvL1e3zico11pph0YO00="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Th.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Th.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"769uN1BSyQ5dYYJViwpiA1vxvL1e3zico11pph0YO00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-769uN1BSyQ5dYYJViwpiA1vxvL1e3zico11pph0YO00="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Ts.90m94io2s1.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ts.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qePivQwVg4Nn3TlUuYnquQIHfyW8Q8/ygeHoxuWhAw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90m94io2s1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cards/Ts.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qePivQwVg4Nn3TlUuYnquQIHfyW8Q8/ygeHoxuWhAw4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cards/Ts.png",
+      "AssetFile": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ts.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qePivQwVg4Nn3TlUuYnquQIHfyW8Q8/ygeHoxuWhAw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 21:02:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qePivQwVg4Nn3TlUuYnquQIHfyW8Q8/ygeHoxuWhAw4="
         }
       ]
     },

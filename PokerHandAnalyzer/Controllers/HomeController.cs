@@ -27,13 +27,13 @@ public class HomeController : Controller
     {
         if (!ModelState.IsValid)
         {
-            return View(model); // Return view with validation errors
+            var errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
+            return Json(new { validationErrors = errors });
         }
 
         if (model.HasDuplicateCards())
         {
-            ModelState.AddModelError("", "Duplicate cards are not allowed.");
-            return View(model);
+            return Json(new { validationErrors = new List<string> { "Duplicate cards are not allowed." } });
         }
 
         // Initialize PokerService
@@ -43,9 +43,9 @@ public class HomeController : Controller
         List<Double> equities = pokerService.GetEquity(model.HeroHand, model.VillainHand, model.CommunityCards);
 
         // Process the hand (replace with actual poker logic)
-        model.ResultMessage = $"Hero Equity: {equities[0]} Villian Equity: {equities[1]}";
+        string resultMessage = $"Hero Equity: {equities[0]} Villian Equity: {equities[1]}";
 
-        return View(model);
+        return Json(new { resultMessage = resultMessage });
     }
 
     public IActionResult Privacy()

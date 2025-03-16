@@ -9,13 +9,16 @@ namespace PokerEquityCalculator
         private static readonly Random random = new Random();
         private static readonly string Ranks = "23456789TJQKA";
 
-        public List<Double> CalculateEquity(string player1Hand, string player2Hand, string boardCards, int simulations = 10000)
+        public List<Double> CalculateEquity(string player1Hand, string player2Hand, string boardCards = "", int simulations = 10000)
         {
             List<Double> equities = new List<Double>();
             Hand player1 = new Hand(player1Hand.Substring(0, 2), player1Hand.Substring(2, 2));
             Hand player2 = new Hand(player2Hand.Substring(0, 2), player2Hand.Substring(2, 2));
 
-            List<Card> board = Enumerable.Range(0, 3).Select(i => new Card(boardCards.Substring(i * 2, 2))).ToList();
+            List<Card> board;
+
+            if(boardCards != null) board = Enumerable.Range(0, boardCards.Length / 2).Select(i => new Card(boardCards.Substring(i * 2, 2))).ToList();
+            else board = new List<Card>();
             List<Card> deck = GenerateDeck();
 
             // Remove known cards from the deck

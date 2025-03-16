@@ -5,50 +5,293 @@
 @model PokerHandAnalyzer.Models.PokerHandModel
 
 <div class="w-100 d-flex flex-column align-items-center">
-    <div class="w-25 d-flex flex-column">
+    <div class=" d-flex flex-column" style="width: 30%">
         <h2 class="mb-3">Enter Poker Hands</h2>
-        <form asp-action="Index" method="post" class="d-flex flex-column align-items-center ">
-            <div class="d-flex flex-row gap-2 mb-3">
-                <div class="d-flex flex-column">
-                    <label for="heroHand" class="form-label">Hero Hand</label>
-                    <input type="text" class="form-control" asp-for="HeroHand">
-                    <span class="text-danger" asp-validation-for="HeroHand"></span>
-                </div>
+        @* <form id="form1" asp-action="Index" method="post" class="d-flex flex-column align-items-center "> *@
+        @*     <div class="d-flex flex-row gap-2 mb-3"> *@
+        @*         <div class="d-flex flex-column"> *@
+        @*             <label for="heroHand" class="form-label">Hero Hand</label> *@
+        @*             <input type="text" class="form-control" asp-for="HeroHand"> *@
+        @*             <span class="text-danger" asp-validation-for="HeroHand"></span> *@
+        @*         </div> *@
 
-                <div class="d-flex flex-column">
-                    <label for="villainHand" class="form-label">Villain Hand</label>
-                    <input type="text" class="form-control" asp-for="VillainHand">
-                    <span class="text-danger" asp-validation-for="VillainHand"></span>
+        @*         <div class="d-flex flex-column"> *@
+        @*             <label for="villainHand" class="form-label">Villain Hand</label> *@
+        @*             <input type="text" class="form-control" asp-for="VillainHand"> *@
+        @*             <span class="text-danger" asp-validation-for="VillainHand"></span> *@
+        @*         </div> *@
+        @*     </div> *@
+
+        @*     <div class="mb-3 w-100"> *@
+        @*         <label for="communityCards" class="form-label">Community Cards</label> *@
+        @*         <input type="text" class="form-control" asp-for="CommunityCards"> *@
+        @*         <span class="text-danger" asp-validation-for="CommunityCards"></span> *@
+        @*     </div> *@
+
+        @*     <button type="submit" class="btn btn-primary">Analyze Hand</button> *@
+        @* </form> *@
+        @* @if (!string.IsNullOrEmpty(Model.ResultMessage)) *@
+        @* { *@
+        @*     <div class="alert alert-success mt-3"> *@
+        @*         @Model.ResultMessage *@
+        @*     </div> *@
+        @* } *@
+
+        @* @if (!ViewData.ModelState.IsValid) *@
+        @* { *@
+        @*     <div class="alert alert-danger mt-3"> *@
+
+        @*         @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors)) *@
+        @*         { *@
+        @*             <div>@error.ErrorMessage</div> *@
+        @*         } *@
+        @*     </div> *@
+        @* } *@
+
+        @* <br/> *@
+        @* <br/> *@
+        @* <br/> *@
+        @* <br/> *@
+        @* <br/> *@
+        @* <br/> *@
+        @* <br/> *@
+        @* <br/> *@
+        @* <br /> *@
+        @* <br /> *@
+
+        <div>
+            @foreach (var suit in new[] { "s", "h", "c", "d" })
+            {
+                <div class="d-flex flex-row gap-2 justify-content-center m-3">
+                    @foreach (var rank in new[] { "A", "K", "Q", "J", "T", "9", "8", "7", "6", "5", "4", "3", "2" })
+                    {
+                        var card = rank + suit;
+                        <div class="available-cards" data-card="@card" id="@card">
+                            <img src="/images/cards/@($"{card}.png")" alt="@card" class="card-img" />
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+        <div class="d-flex flex-row gap-5">
+            <div class="d-flex flex-column align-items-center">
+                <h4>Hero Cards</h4>
+                <div class="d-flex flex-row gap-3">
+                    <div class="card" data-slot="HeroCard1" id="HeroCard1">
+                        <img src="/images/cards/cardBackGreen.png" alt="cardBackGreen" class="card-img"/>
+                    </div>
+                    <div class="card" data-slot="HeroCard2" id="HeroCard2">
+                        <img src="/images/cards/cardBackGreen.png" alt="cardBackGreen" class="card-img" />
+                    </div>
                 </div>
             </div>
-
-            <div class="mb-3 w-100">
-                <label for="communityCards" class="form-label">Community Cards</label>
-                <input type="text" class="form-control" asp-for="CommunityCards">
-                <span class="text-danger" asp-validation-for="CommunityCards"></span>
+            <div class="d-flex flex-column align-items-center">
+                <h4>Villain Cards</h4>
+                <div class="d-flex flex-row gap-3">
+                    <div class="card" data-slot="VillainCard1" id="VillainCard1">
+                        <img src="/images/cards/cardBackGreen.png" alt="cardBackGreen" class="card-img" />
+                    </div>
+                    <div class="card" data-slot="VillainCard2" id="VillainCard2">
+                        <img src="/images/cards/cardBackGreen.png" alt="cardBackGreen" class="card-img" />
+                    </div>
+                </div>
             </div>
+        </div>
+        <div class="d-flex flex-column align-items-center m-3">
+            <h4>Community Cards</h4>
+            <div class="d-flex flex-row gap-3">
+                <div class="card" data-slot="CommunityCard1" id="CommunityCard1">
+                    <img src="/images/cards/cardBackGreen.png" alt="cardBackGreen" class="card-img" />
+                </div>
+                <div class="card" data-slot="CommunityCard2" id="CommunityCard2">
+                    <img src="/images/cards/cardBackGreen.png" alt="cardBackGreen" class="card-img"/>
+                </div><div class="card" data-slot="CommunityCard3" id="CommunityCard3">
+                    <img src="/images/cards/cardBackGreen.png" alt="cardBackGreen" class="card-img"  />
+                </div>
+            </div>
+        </div>
+
+        <form id="form2" asp-action="Index" method="post" class="d-flex flex-column align-items-center ">
+            @* <input type="hidden" name="HeroCard1" id="HeroCard1" /> *@
+            @* <input type="hidden" name="HeroCard2" id="HeroCard2" /> *@
+            @* <input type="hidden" name="VillainCard1" id="VillainCard1" /> *@
+            @* <input type="hidden" name="VillainCard2" id="VillainCard2" /> *@
+            @* <input type="hidden" name="CommunityCard1" id="CommunityCard1" /> *@
+            @* <input type="hidden" name="CommunityCard2" id="CommunityCard2" /> *@
+            @* <input type="hidden" name="CommunityCard3" id="CommunityCard3" /> *@
+            <input type="hidden" class="form-control" asp-for="HeroHand" id="HeroHand">
+            <input type="hidden" class="form-control" asp-for="VillainHand" id="VillainHand">
+            <input type="hidden" class="form-control" asp-for="CommunityCards" id="CommunityCards">
 
             <button type="submit" class="btn btn-primary">Analyze Hand</button>
         </form>
-        @if (!string.IsNullOrEmpty(Model.ResultMessage))
-        {
-            <div class="alert alert-success mt-3">
-                @Model.ResultMessage
-            </div>
-        }
-
-        @if (!ViewData.ModelState.IsValid)
-        {
-            <div class="alert alert-danger mt-3">
-
-                @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
-                {
-                    <div>@error.ErrorMessage</div>
-                }
-            </div>
-        }
     </div>
 </div>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    let suitDictionary = {
+        "cardHearts" : "h",
+        "cardSpades" : "s",
+        "cardClubs" : "c",
+        "cardDiamonds" : "d"
+    };
+    let currentSelected = {
+        "HeroCard1" : "",
+        "HeroCard2" : "",
+        "VillainCard1" : "",
+        "VillainCard2" : "",
+        "CommunityCard1" : "",
+        "CommunityCard2" : "",
+        "CommunityCard3" : "",
+    };
+    let slots = ["HeroCard1", "HeroCard2", "VillainCard1", "VillainCard2", "CommunityCard1", "CommunityCard2", "CommunityCard3"];
+
+    var selectedSlot = "HeroCard1";
+    $("#HeroCard1").addClass("selected");
+
+    $(document).on("click", ".available-cards", function() {
+        let selectedCard = $(this).attr("data-card");
+        let newImagePath = `/images/cards/${selectedCard}.png`;
+
+        //remove div from available cards
+        $(`#${selectedCard}`).removeClass().addClass("unavailable-cards");
+        let div = $(`div[id=${selectedCard}]`);
+        let img = div.find("img");
+        if (img.length) {  // Check if the image exists before removing
+            img.remove();
+        }
+
+        //change image to selected card
+        let slotDiv = $(`div[data-slot=${selectedSlot}]`);
+        let imgElement = slotDiv.find("img");
+        imgElement.attr("src", newImagePath);
+
+        //update the hand for selected slot
+        currentSelected[selectedSlot] = selectedCard;
+
+        //move selected slot to next available card
+        slots.some(slot => {
+            if(currentSelected[slot] === "") {
+                selectedSlot = slot;
+                $(".card").removeClass("selected");
+                $(`#${slot}`).addClass("selected");
+                return true;
+            }
+        });
+    });
+
+    $(document).on("click", ".card", function() {
+        let newSlot = $(this).attr("data-slot");
+        //if clicks on already selected item
+        if(currentSelected[newSlot] != "") {
+            //change image to the background image
+            let slotDiv = $(`div[data-slot=${newSlot}]`);
+            let imgElement = slotDiv.find("img");
+            imgElement.attr("src", "/images/cards/cardBackGreen.png");
+
+            //return card to the card pool
+            $(`#${currentSelected[newSlot]}`).removeClass().addClass("available-cards");
+            let cardDiv = $(`div[id=${currentSelected[newSlot]}]`);
+            cardDiv.append(`<img src="/images/cards/${currentSelected[newSlot]}.png" alt=${currentSelected[newSlot]} class="card-img" />`)
+
+            //remove string from final data
+            currentSelected[newSlot] = "";
+
+        }
+
+        $(".card").removeClass("selected");
+        $(this).addClass("selected");
+        selectedSlot = newSlot;
+    });
+
+    $("#form2").on("submit", function(event) {
+        event.preventDefault();
+        console.log("Selected Cards: ", currentSelected);
+        $("#HeroHand").val(currentSelected["HeroCard1"] + currentSelected["HeroCard2"]);
+        $("#VillainHand").val(currentSelected["VillainCard1"] + currentSelected["VillainCard2"]);
+        $("#CommunityCards").val(currentSelected["CommunityCard1"] + currentSelected["CommunityCard2"] + currentSelected["CommunityCard3"]);
+        console.log($("#HeroHand").val());
+        console.log($("#VillainHand").val());
+        console.log($("#CommunityCards").val());
+        //this.submit();
+
+        // Send AJAX request
+        $.ajax({
+            url: "/Home/Index", // URL of the action method
+            type: "POST",
+            data: $("#form2").serialize(), // Serialize form data
+            success: function(response) {
+                console.log("Response received:", response);
+
+                // Update result message without refreshing the page
+                if (response.resultMessage) {
+                    $(".alert-success").remove(); // Remove old success message
+                    $(".alert-danger").remove(); // Remove old error messages
+                    $("#form2").after(`<div class="alert alert-success mt-3">${response.resultMessage}</div>`);
+                }
+
+                // If there were validation errors, display them
+                if (response.validationErrors) {
+                    $(".alert-success").remove(); // Remove old success message
+                    $(".alert-danger").remove(); // Remove old error messages
+                    let errorDiv = '<div class="alert alert-danger mt-3">';
+                    response.validationErrors.forEach(error => {
+                        errorDiv += `<div>${error}</div>`;
+                    });
+                    errorDiv += '</div>';
+                    $("#form2").after(errorDiv);
+                }
+            },
+            error: function(xhr) {
+                console.log("Error:", xhr);
+                alert("Something went wrong. Please try again.");
+            }
+        });
+    });
+
+</script>
+
+<style>
+    .available-cards {
+        flex: 0 0 32px; /* Ensures a fixed width inside a flexbox */
+        aspect-ratio: 417 / 654;
+        display: flex; /* Allows centering content */
+        align-items: center;
+        justify-content: center;
+        border: 1px solid black;
+        cursor: pointer;
+    }
+
+    .unavailable-cards {
+        flex: 0 0 32px; /* Ensures a fixed width inside a flexbox */
+        aspect-ratio: 417 / 654;
+        display: flex; /* Allows centering content */
+        align-items: center;
+        justify-content: center;
+    }
+
+    .card {
+        width: 63px;
+        aspect-ratio: 417 / 625;
+        display: inline-block;
+        cursor: pointer;
+        background-color: lightgray;
+        border-radius: 10px;
+    }
+
+    .selected {
+        border: 2px solid red;
+    }
+
+    .card-img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Ensures the card image fills the div properly */
+    }
+</style>
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />

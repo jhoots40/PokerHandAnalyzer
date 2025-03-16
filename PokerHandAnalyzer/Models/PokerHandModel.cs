@@ -6,18 +6,15 @@ namespace PokerHandAnalyzer.Models
     public class PokerHandModel
     {
         [Required(ErrorMessage = "Hero hand is required.")]
-        [RegularExpression(@"^(A|K|Q|T|[2-9])(h|d|c|s)(A|K|Q|T|[2-9])(h|d|c|s)$", ErrorMessage = "Hero hand format is invalid.")]
+        [RegularExpression(@"^(A|K|Q|J|T|[2-9])(h|d|c|s)(A|K|Q|J|T|[2-9])(h|d|c|s)$", ErrorMessage = "Hero hand format is invalid.")]
         public string? HeroHand { get; set; }
 
         [Required(ErrorMessage = "Villain hand is required.")]
-        [RegularExpression(@"^(A|K|Q|T|[2-9])(h|d|c|s)(A|K|Q|T|[2-9])(h|d|c|s)$", ErrorMessage = "Villain hand format is invalid.")]
+        [RegularExpression(@"^(A|K|Q|J|T|[2-9])(h|d|c|s)(A|K|Q|J|T|[2-9])(h|d|c|s)$", ErrorMessage = "Villain hand format is invalid.")]
         public string? VillainHand { get; set; }
 
-        [Required(ErrorMessage = "Community cards are required.")]
-        [RegularExpression(@"^((A|K|Q|T|[2-9])(h|d|c|s)){3,4}$", ErrorMessage = "Community cards must be 3 or 4 valid cards.")]
+        [RegularExpression(@"^$|^(A|K|Q|J|T|[2-9])(h|d|c|s)(A|K|Q|J|T|[2-9])(h|d|c|s)(A|K|Q|J|T|[2-9])(h|d|c|s)$", ErrorMessage = "Community cards must be 3 valid cards")]
         public string? CommunityCards { get; set; }
-
-        public string? ResultMessage { get; set; }
 
         public bool HasDuplicateCards()
         {

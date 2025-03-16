@@ -24,6 +24,642 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 16:10:01 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/2c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\2c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r5GjfPbVIPnQOKw27C2tae\u002B6RMqpYvA2\u002BBjGsxEVFTE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11091"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022r5GjfPbVIPnQOKw27C2tae\u002B6RMqpYvA2\u002BBjGsxEVFTE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/2c.xku2fad7wq.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\2c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xku2fad7wq"},{"Name":"integrity","Value":"sha256-r5GjfPbVIPnQOKw27C2tae\u002B6RMqpYvA2\u002BBjGsxEVFTE="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/2c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11091"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022r5GjfPbVIPnQOKw27C2tae\u002B6RMqpYvA2\u002BBjGsxEVFTE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/2d.856kwz3h7c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\2d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"856kwz3h7c"},{"Name":"integrity","Value":"sha256-5KeCZaiA62bnlRzrWR0r0FljRtr4IN/uYBgZl0J7Goc="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/2d.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10238"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00225KeCZaiA62bnlRzrWR0r0FljRtr4IN/uYBgZl0J7Goc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/2d.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\2d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5KeCZaiA62bnlRzrWR0r0FljRtr4IN/uYBgZl0J7Goc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10238"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00225KeCZaiA62bnlRzrWR0r0FljRtr4IN/uYBgZl0J7Goc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/2h.elnbsqxmhl.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\2h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"elnbsqxmhl"},{"Name":"integrity","Value":"sha256-zt\u002BFRCc3K1bfKEj6BK5tdEyDFVzIErSEiI0Nv1bgHow="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/2h.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11365"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022zt\u002BFRCc3K1bfKEj6BK5tdEyDFVzIErSEiI0Nv1bgHow=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/2h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\2h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zt\u002BFRCc3K1bfKEj6BK5tdEyDFVzIErSEiI0Nv1bgHow="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11365"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022zt\u002BFRCc3K1bfKEj6BK5tdEyDFVzIErSEiI0Nv1bgHow=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/2s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\2s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eTMJtr8E\u002BRh3VMGh2VKfNiNPepM32\u002B\u002BQ3zn1aRJLRuY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11084"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022eTMJtr8E\u002BRh3VMGh2VKfNiNPepM32\u002B\u002BQ3zn1aRJLRuY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/2s.tzbjw0d2rj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\2s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tzbjw0d2rj"},{"Name":"integrity","Value":"sha256-eTMJtr8E\u002BRh3VMGh2VKfNiNPepM32\u002B\u002BQ3zn1aRJLRuY="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/2s.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11084"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022eTMJtr8E\u002BRh3VMGh2VKfNiNPepM32\u002B\u002BQ3zn1aRJLRuY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/3c.71xyej88u3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\3c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"71xyej88u3"},{"Name":"integrity","Value":"sha256-RapRZu70tQOjPOoLE9taNjdg/ig0oAcpGLirvQo0dbQ="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/3c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12022"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022RapRZu70tQOjPOoLE9taNjdg/ig0oAcpGLirvQo0dbQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/3c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\3c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RapRZu70tQOjPOoLE9taNjdg/ig0oAcpGLirvQo0dbQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12022"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022RapRZu70tQOjPOoLE9taNjdg/ig0oAcpGLirvQo0dbQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/3d.g5l4kcnz00.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\3d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g5l4kcnz00"},{"Name":"integrity","Value":"sha256-7EdPSvp8FE7x9tu0X\u002BlsqY4qiWxJ8LKPGqceryoIgVU="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/3d.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11357"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227EdPSvp8FE7x9tu0X\u002BlsqY4qiWxJ8LKPGqceryoIgVU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/3d.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\3d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7EdPSvp8FE7x9tu0X\u002BlsqY4qiWxJ8LKPGqceryoIgVU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11357"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227EdPSvp8FE7x9tu0X\u002BlsqY4qiWxJ8LKPGqceryoIgVU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/3h.l9qyvtws8n.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\3h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l9qyvtws8n"},{"Name":"integrity","Value":"sha256-hzMDgF8Igz\u002BJtBABaP\u002BUVv07\u002B3N\u002B49\u002BC/E0r9cMoR4Q="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/3h.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12441"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hzMDgF8Igz\u002BJtBABaP\u002BUVv07\u002B3N\u002B49\u002BC/E0r9cMoR4Q=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/3h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\3h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hzMDgF8Igz\u002BJtBABaP\u002BUVv07\u002B3N\u002B49\u002BC/E0r9cMoR4Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12441"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hzMDgF8Igz\u002BJtBABaP\u002BUVv07\u002B3N\u002B49\u002BC/E0r9cMoR4Q=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/3s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\3s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z5GABPX04OLadVoCLRN\u002Bkahdy7I3LD4CZRf\u002BovSXCFg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12021"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Z5GABPX04OLadVoCLRN\u002Bkahdy7I3LD4CZRf\u002BovSXCFg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/3s.xyf767eotc.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\3s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xyf767eotc"},{"Name":"integrity","Value":"sha256-Z5GABPX04OLadVoCLRN\u002Bkahdy7I3LD4CZRf\u002BovSXCFg="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/3s.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12021"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Z5GABPX04OLadVoCLRN\u002Bkahdy7I3LD4CZRf\u002BovSXCFg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/4c.445iw2ucor.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\4c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"445iw2ucor"},{"Name":"integrity","Value":"sha256-nM2WDSqdGrXznhLpevXh1AlLFDLkV9fLF\u002BIb5n7lr8o="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/4c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9443"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022nM2WDSqdGrXznhLpevXh1AlLFDLkV9fLF\u002BIb5n7lr8o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/4c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\4c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nM2WDSqdGrXznhLpevXh1AlLFDLkV9fLF\u002BIb5n7lr8o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9443"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022nM2WDSqdGrXznhLpevXh1AlLFDLkV9fLF\u002BIb5n7lr8o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/4d.hbdt9ea377.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\4d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hbdt9ea377"},{"Name":"integrity","Value":"sha256-UxYr3qYQS5/ds5cSunj5gZ5KJLE1hllJn6icI/6Kloc="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/4d.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8320"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UxYr3qYQS5/ds5cSunj5gZ5KJLE1hllJn6icI/6Kloc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/4d.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\4d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UxYr3qYQS5/ds5cSunj5gZ5KJLE1hllJn6icI/6Kloc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8320"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UxYr3qYQS5/ds5cSunj5gZ5KJLE1hllJn6icI/6Kloc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/4h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\4h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZLxAHQT1iW3bYvpMCQ4N6VW88rr2mrlChHk2OAUOMOY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9526"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZLxAHQT1iW3bYvpMCQ4N6VW88rr2mrlChHk2OAUOMOY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/4h.sww4orydck.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\4h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sww4orydck"},{"Name":"integrity","Value":"sha256-ZLxAHQT1iW3bYvpMCQ4N6VW88rr2mrlChHk2OAUOMOY="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/4h.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9526"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZLxAHQT1iW3bYvpMCQ4N6VW88rr2mrlChHk2OAUOMOY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/4s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\4s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-87EESG91fV7lXfcREUwlj81pHJomkvvQmxKpDBe//xk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9427"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002287EESG91fV7lXfcREUwlj81pHJomkvvQmxKpDBe//xk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/4s.tgnd213eb9.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\4s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tgnd213eb9"},{"Name":"integrity","Value":"sha256-87EESG91fV7lXfcREUwlj81pHJomkvvQmxKpDBe//xk="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/4s.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9427"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002287EESG91fV7lXfcREUwlj81pHJomkvvQmxKpDBe//xk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/5c.27ttgdfmb1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\5c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"27ttgdfmb1"},{"Name":"integrity","Value":"sha256-8vJbsPnV8CSUJii9TJdFXMYJTjV3xaEb1L2GtJZ83I4="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/5c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11232"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228vJbsPnV8CSUJii9TJdFXMYJTjV3xaEb1L2GtJZ83I4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/5c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\5c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8vJbsPnV8CSUJii9TJdFXMYJTjV3xaEb1L2GtJZ83I4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11232"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228vJbsPnV8CSUJii9TJdFXMYJTjV3xaEb1L2GtJZ83I4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/5d.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\5d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mj7jucUYxFXeeeyDj6BbZpDNngEpdamca0feFOaOsF4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10484"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mj7jucUYxFXeeeyDj6BbZpDNngEpdamca0feFOaOsF4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/5d.q71da0babx.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\5d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q71da0babx"},{"Name":"integrity","Value":"sha256-mj7jucUYxFXeeeyDj6BbZpDNngEpdamca0feFOaOsF4="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/5d.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10484"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mj7jucUYxFXeeeyDj6BbZpDNngEpdamca0feFOaOsF4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/5h.2phe86j4zh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\5h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2phe86j4zh"},{"Name":"integrity","Value":"sha256-6p5qTBLfa2exjIJ1sx5AHl1L7ZTXGWuaReqRHHP\u002B9S0="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/5h.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11587"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226p5qTBLfa2exjIJ1sx5AHl1L7ZTXGWuaReqRHHP\u002B9S0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/5h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\5h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6p5qTBLfa2exjIJ1sx5AHl1L7ZTXGWuaReqRHHP\u002B9S0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11587"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226p5qTBLfa2exjIJ1sx5AHl1L7ZTXGWuaReqRHHP\u002B9S0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/5s.0uxazo6ti3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\5s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0uxazo6ti3"},{"Name":"integrity","Value":"sha256-yMzdjepFlZxa6j8USrCTUzEP0MIUHRVgkNpjwNR1EWM="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/5s.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11234"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yMzdjepFlZxa6j8USrCTUzEP0MIUHRVgkNpjwNR1EWM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/5s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\5s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yMzdjepFlZxa6j8USrCTUzEP0MIUHRVgkNpjwNR1EWM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11234"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yMzdjepFlZxa6j8USrCTUzEP0MIUHRVgkNpjwNR1EWM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/6c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\6c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NzFjXuGArVQd9fC\u002BUSjMdwnv50i7qzfcyjGBI0N1wjY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12109"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NzFjXuGArVQd9fC\u002BUSjMdwnv50i7qzfcyjGBI0N1wjY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/6c.rjnwi0m1d6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\6c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rjnwi0m1d6"},{"Name":"integrity","Value":"sha256-NzFjXuGArVQd9fC\u002BUSjMdwnv50i7qzfcyjGBI0N1wjY="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/6c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12109"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NzFjXuGArVQd9fC\u002BUSjMdwnv50i7qzfcyjGBI0N1wjY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/6d.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\6d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j2kFPm\u002BJuEhrDjHjz7UWy3KHZl3Ka9CIOlCRd3W2DJI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11449"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022j2kFPm\u002BJuEhrDjHjz7UWy3KHZl3Ka9CIOlCRd3W2DJI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/6d.zn7flktr2x.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\6d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zn7flktr2x"},{"Name":"integrity","Value":"sha256-j2kFPm\u002BJuEhrDjHjz7UWy3KHZl3Ka9CIOlCRd3W2DJI="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/6d.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11449"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022j2kFPm\u002BJuEhrDjHjz7UWy3KHZl3Ka9CIOlCRd3W2DJI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/6h.fphk0v5sr1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\6h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fphk0v5sr1"},{"Name":"integrity","Value":"sha256-XT0OOjWGT1Gv25N7xWutAsNjct1MQaaqKjkPjpNiAvo="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/6h.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12535"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XT0OOjWGT1Gv25N7xWutAsNjct1MQaaqKjkPjpNiAvo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/6h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\6h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XT0OOjWGT1Gv25N7xWutAsNjct1MQaaqKjkPjpNiAvo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12535"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XT0OOjWGT1Gv25N7xWutAsNjct1MQaaqKjkPjpNiAvo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/6s.f6wa210yho.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\6s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f6wa210yho"},{"Name":"integrity","Value":"sha256-ZydbX47iwrRnjMjPnkumiTLGHatfunapvz1LlS\u002BSWBI="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/6s.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12105"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZydbX47iwrRnjMjPnkumiTLGHatfunapvz1LlS\u002BSWBI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/6s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\6s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZydbX47iwrRnjMjPnkumiTLGHatfunapvz1LlS\u002BSWBI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12105"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZydbX47iwrRnjMjPnkumiTLGHatfunapvz1LlS\u002BSWBI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/7c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\7c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vcYv8YZu9aSdt/8p9fRR1nTygv/C93jm4uItrhDNbnM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9884"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vcYv8YZu9aSdt/8p9fRR1nTygv/C93jm4uItrhDNbnM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/7c.vh8d99eabh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\7c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vh8d99eabh"},{"Name":"integrity","Value":"sha256-vcYv8YZu9aSdt/8p9fRR1nTygv/C93jm4uItrhDNbnM="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/7c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9884"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vcYv8YZu9aSdt/8p9fRR1nTygv/C93jm4uItrhDNbnM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/7d.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\7d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7uMzuuPKqzSSuNcHOpAjWsqs/AaLjqZO6NzSQoBPnHs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8648"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227uMzuuPKqzSSuNcHOpAjWsqs/AaLjqZO6NzSQoBPnHs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/7d.ykutodrvls.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\7d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ykutodrvls"},{"Name":"integrity","Value":"sha256-7uMzuuPKqzSSuNcHOpAjWsqs/AaLjqZO6NzSQoBPnHs="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/7d.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8648"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227uMzuuPKqzSSuNcHOpAjWsqs/AaLjqZO6NzSQoBPnHs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/7h.izcid5s4ub.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\7h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"izcid5s4ub"},{"Name":"integrity","Value":"sha256-wsxnZcZ4t2Hr93S32L0gKbQjxSe8TT1FS/ltjPB70JU="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/7h.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9881"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wsxnZcZ4t2Hr93S32L0gKbQjxSe8TT1FS/ltjPB70JU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/7h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\7h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wsxnZcZ4t2Hr93S32L0gKbQjxSe8TT1FS/ltjPB70JU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9881"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wsxnZcZ4t2Hr93S32L0gKbQjxSe8TT1FS/ltjPB70JU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/7s.3mxy4nofgt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\7s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3mxy4nofgt"},{"Name":"integrity","Value":"sha256-VaH4YYPI/kLZoTpKwvatQDrWmTS31y9apQZBBKSCLL4="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/7s.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9866"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022VaH4YYPI/kLZoTpKwvatQDrWmTS31y9apQZBBKSCLL4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/7s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\7s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VaH4YYPI/kLZoTpKwvatQDrWmTS31y9apQZBBKSCLL4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9866"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022VaH4YYPI/kLZoTpKwvatQDrWmTS31y9apQZBBKSCLL4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/8c.icn5y1ul7n.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\8c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"icn5y1ul7n"},{"Name":"integrity","Value":"sha256-jtTHUPGACeatmsVtt5mp6uehqUuQ2PYqxW\u002BRXuiW9hE="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/8c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12764"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jtTHUPGACeatmsVtt5mp6uehqUuQ2PYqxW\u002BRXuiW9hE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/8c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\8c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jtTHUPGACeatmsVtt5mp6uehqUuQ2PYqxW\u002BRXuiW9hE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12764"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jtTHUPGACeatmsVtt5mp6uehqUuQ2PYqxW\u002BRXuiW9hE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/8d.of1jzj5s47.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\8d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"of1jzj5s47"},{"Name":"integrity","Value":"sha256-/PKcETh9ZSrD1OuDsnB8rKSoIQWvaxJcVwVh5yIb1R4="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/8d.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12213"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/PKcETh9ZSrD1OuDsnB8rKSoIQWvaxJcVwVh5yIb1R4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/8d.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\8d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/PKcETh9ZSrD1OuDsnB8rKSoIQWvaxJcVwVh5yIb1R4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12213"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/PKcETh9ZSrD1OuDsnB8rKSoIQWvaxJcVwVh5yIb1R4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/8h.6aghycwrh5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\8h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6aghycwrh5"},{"Name":"integrity","Value":"sha256-rj7rPW9HmSp1eB9ckYxQW9YH11XkurqHoDFblQlBW2U="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/8h.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13282"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rj7rPW9HmSp1eB9ckYxQW9YH11XkurqHoDFblQlBW2U=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/8h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\8h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rj7rPW9HmSp1eB9ckYxQW9YH11XkurqHoDFblQlBW2U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13282"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rj7rPW9HmSp1eB9ckYxQW9YH11XkurqHoDFblQlBW2U=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/8s.oxskb3kzhv.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\8s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oxskb3kzhv"},{"Name":"integrity","Value":"sha256-hFmaSFW9srfj3SwwKEypWd05bjEjo865xtHdZ1zKRSA="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/8s.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12763"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hFmaSFW9srfj3SwwKEypWd05bjEjo865xtHdZ1zKRSA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/8s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\8s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hFmaSFW9srfj3SwwKEypWd05bjEjo865xtHdZ1zKRSA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12763"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hFmaSFW9srfj3SwwKEypWd05bjEjo865xtHdZ1zKRSA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/9c.fsa5hzbd47.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\9c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fsa5hzbd47"},{"Name":"integrity","Value":"sha256-39IqBpn/ycdwO/Qr2W\u002Bra83WV5ONlqX6HBNbbCh0v5o="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/9c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12153"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002239IqBpn/ycdwO/Qr2W\u002Bra83WV5ONlqX6HBNbbCh0v5o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/9c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\9c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-39IqBpn/ycdwO/Qr2W\u002Bra83WV5ONlqX6HBNbbCh0v5o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12153"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002239IqBpn/ycdwO/Qr2W\u002Bra83WV5ONlqX6HBNbbCh0v5o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/9d.e7phz9leub.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\9d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e7phz9leub"},{"Name":"integrity","Value":"sha256-Js9ElzP\u002BuEWliuBpeWJ/VHiXsnHfmw5KgTc\u002BBY5jPwk="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/9d.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11536"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Js9ElzP\u002BuEWliuBpeWJ/VHiXsnHfmw5KgTc\u002BBY5jPwk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/9d.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\9d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Js9ElzP\u002BuEWliuBpeWJ/VHiXsnHfmw5KgTc\u002BBY5jPwk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11536"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Js9ElzP\u002BuEWliuBpeWJ/VHiXsnHfmw5KgTc\u002BBY5jPwk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/9h.80wtkeh2sy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\9h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"80wtkeh2sy"},{"Name":"integrity","Value":"sha256-SGN7dDxdzu15qXLhm1zNpcOE1QsOn5/9OyKKLVoqA5Q="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/9h.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12617"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SGN7dDxdzu15qXLhm1zNpcOE1QsOn5/9OyKKLVoqA5Q=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/9h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\9h.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SGN7dDxdzu15qXLhm1zNpcOE1QsOn5/9OyKKLVoqA5Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12617"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SGN7dDxdzu15qXLhm1zNpcOE1QsOn5/9OyKKLVoqA5Q=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/9s.6q9vxa3y78.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\9s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6q9vxa3y78"},{"Name":"integrity","Value":"sha256-/huHQL4Zzrdrmc7j5Y5gt5PGGi7GN26SfJOor9RsYj8="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/9s.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12152"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/huHQL4Zzrdrmc7j5Y5gt5PGGi7GN26SfJOor9RsYj8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/9s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\9s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/huHQL4Zzrdrmc7j5Y5gt5PGGi7GN26SfJOor9RsYj8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12152"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/huHQL4Zzrdrmc7j5Y5gt5PGGi7GN26SfJOor9RsYj8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Ac.h936sviota.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Ac.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h936sviota"},{"Name":"integrity","Value":"sha256-\u002BxF6wVN201Kn4SpsH1TesD4fgb0plHBJ5wzp0BI8bkE="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Ac.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11297"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BxF6wVN201Kn4SpsH1TesD4fgb0plHBJ5wzp0BI8bkE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Ac.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Ac.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BxF6wVN201Kn4SpsH1TesD4fgb0plHBJ5wzp0BI8bkE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11297"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BxF6wVN201Kn4SpsH1TesD4fgb0plHBJ5wzp0BI8bkE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Ad.cm8scodqyo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Ad.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cm8scodqyo"},{"Name":"integrity","Value":"sha256-pFbPe4GayvA2toNV4EpYvyt1xBG/BQIcUtc9lWFjhn0="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Ad.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10435"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022pFbPe4GayvA2toNV4EpYvyt1xBG/BQIcUtc9lWFjhn0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Ad.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Ad.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pFbPe4GayvA2toNV4EpYvyt1xBG/BQIcUtc9lWFjhn0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10435"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022pFbPe4GayvA2toNV4EpYvyt1xBG/BQIcUtc9lWFjhn0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Ah.padetme9pr.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Ah.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"padetme9pr"},{"Name":"integrity","Value":"sha256-L1C8\u002BsP6FLL3Y3OTN34e53w3RzuBDoh6yVtJpvCa7RM="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Ah.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11578"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022L1C8\u002BsP6FLL3Y3OTN34e53w3RzuBDoh6yVtJpvCa7RM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Ah.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Ah.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-L1C8\u002BsP6FLL3Y3OTN34e53w3RzuBDoh6yVtJpvCa7RM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11578"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022L1C8\u002BsP6FLL3Y3OTN34e53w3RzuBDoh6yVtJpvCa7RM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/As.90w3k2omyy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\As.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"90w3k2omyy"},{"Name":"integrity","Value":"sha256-N1\u002B69z2UDfaEw2S9tz54BKgzya2pMnRVQCiDCUseeWM="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/As.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11288"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022N1\u002B69z2UDfaEw2S9tz54BKgzya2pMnRVQCiDCUseeWM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/As.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\As.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N1\u002B69z2UDfaEw2S9tz54BKgzya2pMnRVQCiDCUseeWM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11288"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022N1\u002B69z2UDfaEw2S9tz54BKgzya2pMnRVQCiDCUseeWM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/cardBackGreen.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\cardBackGreen.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gFxz1xQTk8ZFIwmNsF6S/GDesv1OQkyWqMu28vIt7tg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"309362"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gFxz1xQTk8ZFIwmNsF6S/GDesv1OQkyWqMu28vIt7tg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:21:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/cardBackGreen.shoic98t5i.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\cardBackGreen.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"shoic98t5i"},{"Name":"integrity","Value":"sha256-gFxz1xQTk8ZFIwmNsF6S/GDesv1OQkyWqMu28vIt7tg="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/cardBackGreen.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"309362"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gFxz1xQTk8ZFIwmNsF6S/GDesv1OQkyWqMu28vIt7tg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:21:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Jc.h678iglq57.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Jc.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h678iglq57"},{"Name":"integrity","Value":"sha256-p8fi4zawMUHhsOrT1d1QO\u002BZSbh4EmOg91VHHDVBJmNo="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Jc.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9444"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022p8fi4zawMUHhsOrT1d1QO\u002BZSbh4EmOg91VHHDVBJmNo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Jc.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Jc.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p8fi4zawMUHhsOrT1d1QO\u002BZSbh4EmOg91VHHDVBJmNo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9444"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022p8fi4zawMUHhsOrT1d1QO\u002BZSbh4EmOg91VHHDVBJmNo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Jd.b3i9ehe5fx.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Jd.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b3i9ehe5fx"},{"Name":"integrity","Value":"sha256-15VPQEZGQXFKr32PbjYjPqeOVdtc6nJ/VNin5yB5MN8="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Jd.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8442"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002215VPQEZGQXFKr32PbjYjPqeOVdtc6nJ/VNin5yB5MN8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Jd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Jd.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-15VPQEZGQXFKr32PbjYjPqeOVdtc6nJ/VNin5yB5MN8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8442"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002215VPQEZGQXFKr32PbjYjPqeOVdtc6nJ/VNin5yB5MN8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Jh.kr6m9egg7p.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Jh.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kr6m9egg7p"},{"Name":"integrity","Value":"sha256-wGzbMK1\u002B5Npwf9anUU40bFSRqctAat0MZV/kdziI0fA="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Jh.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9628"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wGzbMK1\u002B5Npwf9anUU40bFSRqctAat0MZV/kdziI0fA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Jh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Jh.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wGzbMK1\u002B5Npwf9anUU40bFSRqctAat0MZV/kdziI0fA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9628"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wGzbMK1\u002B5Npwf9anUU40bFSRqctAat0MZV/kdziI0fA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Js.dpmby2d3zr.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Js.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dpmby2d3zr"},{"Name":"integrity","Value":"sha256-T35dGBoV4bfDyrNj6TQUDxkD7Np\u002BVaq7bT1X353ioWY="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Js.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9437"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022T35dGBoV4bfDyrNj6TQUDxkD7Np\u002BVaq7bT1X353ioWY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Js.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Js.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T35dGBoV4bfDyrNj6TQUDxkD7Np\u002BVaq7bT1X353ioWY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9437"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022T35dGBoV4bfDyrNj6TQUDxkD7Np\u002BVaq7bT1X353ioWY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Kc.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Kc.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LhPzV7HEaJhh3lLuJLW1lp4gkDqedrFIEHcHFuo5aZw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10695"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022LhPzV7HEaJhh3lLuJLW1lp4gkDqedrFIEHcHFuo5aZw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Kc.qxbzg3jfck.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Kc.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qxbzg3jfck"},{"Name":"integrity","Value":"sha256-LhPzV7HEaJhh3lLuJLW1lp4gkDqedrFIEHcHFuo5aZw="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Kc.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10695"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022LhPzV7HEaJhh3lLuJLW1lp4gkDqedrFIEHcHFuo5aZw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Kd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Kd.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-73Z\u002BItF\u002BTqiK6o7mWdnzZBuZkG1n\u002B\u002Bbp8wa327SRdTs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9632"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002273Z\u002BItF\u002BTqiK6o7mWdnzZBuZkG1n\u002B\u002Bbp8wa327SRdTs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Kd.pqdapbiphw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Kd.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pqdapbiphw"},{"Name":"integrity","Value":"sha256-73Z\u002BItF\u002BTqiK6o7mWdnzZBuZkG1n\u002B\u002Bbp8wa327SRdTs="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Kd.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9632"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002273Z\u002BItF\u002BTqiK6o7mWdnzZBuZkG1n\u002B\u002Bbp8wa327SRdTs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Kh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Kh.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VkFHgpi\u002BuqdYl99r9SkKmkeMbhOsP3uXlKNh0tB2SUQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10822"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022VkFHgpi\u002BuqdYl99r9SkKmkeMbhOsP3uXlKNh0tB2SUQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Kh.ydyx9rykwz.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Kh.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ydyx9rykwz"},{"Name":"integrity","Value":"sha256-VkFHgpi\u002BuqdYl99r9SkKmkeMbhOsP3uXlKNh0tB2SUQ="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Kh.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10822"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022VkFHgpi\u002BuqdYl99r9SkKmkeMbhOsP3uXlKNh0tB2SUQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Ks.m5ex0kb1c8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Ks.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m5ex0kb1c8"},{"Name":"integrity","Value":"sha256-6oXcDqFNK2dpyLuRJI1r3Rb0KHx5YuxH/ITimsOsTCk="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Ks.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10682"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226oXcDqFNK2dpyLuRJI1r3Rb0KHx5YuxH/ITimsOsTCk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Ks.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Ks.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6oXcDqFNK2dpyLuRJI1r3Rb0KHx5YuxH/ITimsOsTCk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10682"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226oXcDqFNK2dpyLuRJI1r3Rb0KHx5YuxH/ITimsOsTCk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Qc.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Qc.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bo6eN1w\u002BjK7WeAlSrd5Mc84tN97Oc833bYrdnAs9sv4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12592"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bo6eN1w\u002BjK7WeAlSrd5Mc84tN97Oc833bYrdnAs9sv4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Qc.ul84lyvu4a.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Qc.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ul84lyvu4a"},{"Name":"integrity","Value":"sha256-bo6eN1w\u002BjK7WeAlSrd5Mc84tN97Oc833bYrdnAs9sv4="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Qc.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12592"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bo6eN1w\u002BjK7WeAlSrd5Mc84tN97Oc833bYrdnAs9sv4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Qd.f9tth7pslt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Qd.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f9tth7pslt"},{"Name":"integrity","Value":"sha256-Y/YDUpyA6X8hl/cD6kw\u002BdqV6T8cfkMDdrjJKbcHP4jM="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Qd.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11878"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Y/YDUpyA6X8hl/cD6kw\u002BdqV6T8cfkMDdrjJKbcHP4jM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Qd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Qd.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Y/YDUpyA6X8hl/cD6kw\u002BdqV6T8cfkMDdrjJKbcHP4jM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11878"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Y/YDUpyA6X8hl/cD6kw\u002BdqV6T8cfkMDdrjJKbcHP4jM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Qh.clk1tvh1wn.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Qh.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"clk1tvh1wn"},{"Name":"integrity","Value":"sha256-gHiTgkJ0mKnU6gSlYuFD94dQXuzoK5EPmaZml5BFLAI="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Qh.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12887"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gHiTgkJ0mKnU6gSlYuFD94dQXuzoK5EPmaZml5BFLAI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Qh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Qh.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gHiTgkJ0mKnU6gSlYuFD94dQXuzoK5EPmaZml5BFLAI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12887"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gHiTgkJ0mKnU6gSlYuFD94dQXuzoK5EPmaZml5BFLAI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Qs.ch64fm5x3o.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Qs.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ch64fm5x3o"},{"Name":"integrity","Value":"sha256-0BDSLRRNPxVpXgN1\u002BLeDJwXMEOzDOhjat9TtTRXG/f4="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Qs.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12626"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00220BDSLRRNPxVpXgN1\u002BLeDJwXMEOzDOhjat9TtTRXG/f4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Qs.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Qs.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0BDSLRRNPxVpXgN1\u002BLeDJwXMEOzDOhjat9TtTRXG/f4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12626"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00220BDSLRRNPxVpXgN1\u002BLeDJwXMEOzDOhjat9TtTRXG/f4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Tc.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Tc.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-roGZlLn/KMq7N29BCcvgjp6iRLmFmAict4czXKQqoVU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11926"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022roGZlLn/KMq7N29BCcvgjp6iRLmFmAict4czXKQqoVU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Tc.yk609darql.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Tc.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yk609darql"},{"Name":"integrity","Value":"sha256-roGZlLn/KMq7N29BCcvgjp6iRLmFmAict4czXKQqoVU="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Tc.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11926"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022roGZlLn/KMq7N29BCcvgjp6iRLmFmAict4czXKQqoVU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:01:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Td.gm6f7zn619.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Td.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gm6f7zn619"},{"Name":"integrity","Value":"sha256-SJK33\u002BiZrookNkjXOqILkg2KT3bmbGjFcH5kfVbVFoI="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Td.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11332"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SJK33\u002BiZrookNkjXOqILkg2KT3bmbGjFcH5kfVbVFoI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Td.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Td.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SJK33\u002BiZrookNkjXOqILkg2KT3bmbGjFcH5kfVbVFoI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11332"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SJK33\u002BiZrookNkjXOqILkg2KT3bmbGjFcH5kfVbVFoI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Th.b9aoanyhqn.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Th.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b9aoanyhqn"},{"Name":"integrity","Value":"sha256-769uN1BSyQ5dYYJViwpiA1vxvL1e3zico11pph0YO00="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Th.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12403"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022769uN1BSyQ5dYYJViwpiA1vxvL1e3zico11pph0YO00=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Th.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Th.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-769uN1BSyQ5dYYJViwpiA1vxvL1e3zico11pph0YO00="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12403"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022769uN1BSyQ5dYYJViwpiA1vxvL1e3zico11pph0YO00=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Ts.90m94io2s1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Ts.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"90m94io2s1"},{"Name":"integrity","Value":"sha256-qePivQwVg4Nn3TlUuYnquQIHfyW8Q8/ygeHoxuWhAw4="},{"Name":"label","Value":"_content/PokerHandAnalyzer/images/cards/Ts.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11926"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qePivQwVg4Nn3TlUuYnquQIHfyW8Q8/ygeHoxuWhAw4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/images/cards/Ts.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cards\Ts.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qePivQwVg4Nn3TlUuYnquQIHfyW8Q8/ygeHoxuWhAw4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11926"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qePivQwVg4Nn3TlUuYnquQIHfyW8Q8/ygeHoxuWhAw4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 21:02:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PokerHandAnalyzer/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

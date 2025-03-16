@@ -13,6 +13,218 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2c.png",
+      "PackagePath": "staticwebassets\\images\\cards\\2c.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2d.png",
+      "PackagePath": "staticwebassets\\images\\cards\\2d.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2h.png",
+      "PackagePath": "staticwebassets\\images\\cards\\2h.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\2s.png",
+      "PackagePath": "staticwebassets\\images\\cards\\2s.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3c.png",
+      "PackagePath": "staticwebassets\\images\\cards\\3c.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3d.png",
+      "PackagePath": "staticwebassets\\images\\cards\\3d.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3h.png",
+      "PackagePath": "staticwebassets\\images\\cards\\3h.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\3s.png",
+      "PackagePath": "staticwebassets\\images\\cards\\3s.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4c.png",
+      "PackagePath": "staticwebassets\\images\\cards\\4c.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4d.png",
+      "PackagePath": "staticwebassets\\images\\cards\\4d.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4h.png",
+      "PackagePath": "staticwebassets\\images\\cards\\4h.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\4s.png",
+      "PackagePath": "staticwebassets\\images\\cards\\4s.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5c.png",
+      "PackagePath": "staticwebassets\\images\\cards\\5c.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5d.png",
+      "PackagePath": "staticwebassets\\images\\cards\\5d.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5h.png",
+      "PackagePath": "staticwebassets\\images\\cards\\5h.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\5s.png",
+      "PackagePath": "staticwebassets\\images\\cards\\5s.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6c.png",
+      "PackagePath": "staticwebassets\\images\\cards\\6c.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6d.png",
+      "PackagePath": "staticwebassets\\images\\cards\\6d.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6h.png",
+      "PackagePath": "staticwebassets\\images\\cards\\6h.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\6s.png",
+      "PackagePath": "staticwebassets\\images\\cards\\6s.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7c.png",
+      "PackagePath": "staticwebassets\\images\\cards\\7c.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7d.png",
+      "PackagePath": "staticwebassets\\images\\cards\\7d.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7h.png",
+      "PackagePath": "staticwebassets\\images\\cards\\7h.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\7s.png",
+      "PackagePath": "staticwebassets\\images\\cards\\7s.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8c.png",
+      "PackagePath": "staticwebassets\\images\\cards\\8c.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8d.png",
+      "PackagePath": "staticwebassets\\images\\cards\\8d.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8h.png",
+      "PackagePath": "staticwebassets\\images\\cards\\8h.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\8s.png",
+      "PackagePath": "staticwebassets\\images\\cards\\8s.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9c.png",
+      "PackagePath": "staticwebassets\\images\\cards\\9c.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9d.png",
+      "PackagePath": "staticwebassets\\images\\cards\\9d.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9h.png",
+      "PackagePath": "staticwebassets\\images\\cards\\9h.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\9s.png",
+      "PackagePath": "staticwebassets\\images\\cards\\9s.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ac.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Ac.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ad.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Ad.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ah.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Ah.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\As.png",
+      "PackagePath": "staticwebassets\\images\\cards\\As.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jc.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Jc.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jd.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Jd.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Jh.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Jh.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Js.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Js.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kc.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Kc.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kd.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Kd.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Kh.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Kh.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ks.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Ks.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qc.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Qc.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qd.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Qd.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qh.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Qh.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Qs.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Qs.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Tc.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Tc.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Td.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Td.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Th.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Th.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\Ts.png",
+      "PackagePath": "staticwebassets\\images\\cards\\Ts.png"
+    },
+    {
+      "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\images\\cards\\cardBackGreen.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardBackGreen.png"
+    },
+    {
       "Id": "C:\\Users\\houts\\source\\repos\\PokerHandAnalyzer\\PokerHandAnalyzer\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
