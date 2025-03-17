@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokerHandAnalyzer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3420dafbe116f1856b4554cfc275e8057112f70e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bd41b6b4ada90d8857d5a75ad59df07ec44f63d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokerHandAnalyzer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokerHandAnalyzer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

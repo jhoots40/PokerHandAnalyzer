@@ -43,9 +43,14 @@ public class HomeController : Controller
         List<Double> equities = pokerService.GetEquity(model.HeroHand, model.VillainHand, model.CommunityCards);
 
         // Process the hand (replace with actual poker logic)
-        string resultMessage = $"Hero Equity: {equities[0]} Villian Equity: {equities[1]}";
+        var result = new
+        {
+            hero = Math.Round(equities[0] * 100, 2),
+            villain = Math.Round(equities[1] * 100, 2),
+            tie = Math.Round(equities[2] * 100, 2)
+        };
 
-        return Json(new { resultMessage = resultMessage });
+        return Json(new { result = result });
     }
 
     public IActionResult Privacy()

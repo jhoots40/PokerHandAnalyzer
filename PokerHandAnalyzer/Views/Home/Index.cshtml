@@ -74,8 +74,8 @@
             }
         </div>
         <div class="d-flex flex-row gap-5">
-            <div class="d-flex flex-column align-items-center">
-                <h4>Hero Cards</h4>
+            <div class="d-flex flex-column align-items-center" id="HeroDisplay">
+                <h4>Hero Cards</h4> 
                 <div class="d-flex flex-row gap-3">
                     <div class="card" data-slot="HeroCard1" id="HeroCard1">
                         <img src="/images/cards/cardBackGreen.png" alt="cardBackGreen" class="card-img"/>
@@ -85,7 +85,7 @@
                     </div>
                 </div>
             </div>
-            <div class="d-flex flex-column align-items-center">
+            <div class="d-flex flex-column align-items-center" id="VillainDisplay">
                 <h4>Villain Cards</h4>
                 <div class="d-flex flex-row gap-3">
                     <div class="card" data-slot="VillainCard1" id="VillainCard1">
@@ -169,6 +169,13 @@
         let imgElement = slotDiv.find("img");
         imgElement.attr("src", newImagePath);
 
+        //if there is a card in selected slot, add it back to available cards
+        if(currentSelected[selectedSlot] != "") {
+            $(`#${currentSelected[selectedSlot]}`).removeClass().addClass("available-cards");
+            let cardDiv = $(`div[id=${currentSelected[selectedSlot]}]`);
+            cardDiv.append(`<img src="/images/cards/${currentSelected[selectedSlot]}.png" alt=${currentSelected[selectedSlot]} class="card-img" />`)
+        }
+
         //update the hand for selected slot
         currentSelected[selectedSlot] = selectedCard;
 
@@ -227,10 +234,11 @@
                 console.log("Response received:", response);
 
                 // Update result message without refreshing the page
-                if (response.resultMessage) {
+                if (response.result) {
                     $(".alert-success").remove(); // Remove old success message
                     $(".alert-danger").remove(); // Remove old error messages
-                    $("#form2").after(`<div class="alert alert-success mt-3">${response.resultMessage}</div>`);
+                    $("#HeroDisplay").append(`<div class="alert alert-success mt-3 w-100 d-flex flex-column align-items-center"><div>Win: ${response.result.hero}</div><div>Tie: ${response.result.tie}</div></div>`);
+                    $("#VillainDisplay").append(`<div class="alert alert-success mt-3 w-100 d-flex flex-column align-items-center"><div>Win: ${response.result.villain}</div><div>Tie: ${response.result.tie}</div></div>`);
                 }
 
                 // If there were validation errors, display them

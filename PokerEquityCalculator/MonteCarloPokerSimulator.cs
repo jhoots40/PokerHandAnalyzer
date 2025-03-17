@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.VisualBasic;
 
 namespace PokerEquityCalculator
 {
@@ -24,7 +25,7 @@ namespace PokerEquityCalculator
             // Remove known cards from the deck
             deck.RemoveAll(c => player1.Cards.Contains(c) || player2.Cards.Contains(c) || board.Contains(c));
 
-            double p1Wins = 0, p2Wins = 0;
+            double p1Wins = 0, p2Wins = 0, ties = 0;
 
             for (int i = 0; i < simulations; i++)
             {
@@ -38,13 +39,13 @@ namespace PokerEquityCalculator
                 else if (result == -1) p2Wins++;
                 else
                 {
-                    p1Wins += 0.5;
-                    p2Wins += 0.5;
+                    ties++;
                 }
             }
 
             equities.Add((double)p1Wins / simulations);
             equities.Add((double)p2Wins / simulations);
+            equities.Add((double)ties / simulations);
 
             return equities;
         }
@@ -108,15 +109,69 @@ namespace PokerEquityCalculator
 
         private static int CompareSameRankHands(List<Card> hand1, List<Card> hand2, int rank)
         {
+            //var sorted1 = hand1.Select(card => Ranks.IndexOf(card.Rank)).OrderByDescending(r => r).ToList();
+            //var sorted2 = hand2.Select(card => Ranks.IndexOf(card.Rank)).OrderByDescending(r => r).ToList();
+
+            //for (int i = 0; i < sorted1.Count; i++)
+            //{
+            //    if (sorted1[i] > sorted2[i]) return 1;
+            //    if (sorted1[i] < sorted2[i]) return -1;
+            //}
+            //return 0; // Tie
+
+
+            var grouped1 = hand1.GroupBy(c => c.Rank).OrderByDescending(g => g.Count()).ThenByDescending(g => Ranks.IndexOf(g.Key)).ToList();
+            var grouped2 = hand2.GroupBy(c => c.Rank).OrderByDescending(g => g.Count()).ThenByDescending(g => Ranks.IndexOf(g.Key)).ToList();
+
+            switch (rank)
+            {
+                case 8: // Four of a Kind
+                    return CompareGroupedHands(grouped1, grouped2, 4);
+                case 7: // Full House
+                    return CompareGroupedHands(grouped1, grouped2, 3, 2);
+                case 4: // Three of a Kind
+                    return CompareGroupedHands(grouped1, grouped2, 3);
+                case 3: // Two Pair
+                    return CompareGroupedHands(grouped1, grouped2, 2, 2);
+                case 2: // One Pair
+                    return CompareGroupedHands(grouped1, grouped2, 2);
+                default: // High Card, Flush, Straight, or Straight Flush
+                    return CompareHighCards(hand1, hand2, 5);
+            }
+        }
+
+        /// Compares grouped hands based on the primary sets (e.g., Four of a Kind, Three of a Kind, Pairs)
+        private static int CompareGroupedHands(List<IGrouping<char, Card>> grouped1, List<IGrouping<char, Card>> grouped2, params int[] mainGroups)
+        {
+            for (int i = 0; i < mainGroups.Length; i++)
+            {
+                int rank1 = Ranks.IndexOf(grouped1[i].Key);
+                int rank2 = Ranks.IndexOf(grouped2[i].Key);
+                if (rank1 > rank2) return 1;
+                if (rank1 < rank2) return -1;
+            }
+
+            var kickers1 = grouped1.Where(g => g.Count() == 1).SelectMany(g => g).ToList();
+            var kickers2 = grouped2.Where(g => g.Count() == 1).SelectMany(g => g).ToList();
+
+            int cardsUsed = 0;
+            foreach(int n in mainGroups) cardsUsed += n;
+
+            return CompareHighCards(kickers1, kickers2, 5 - cardsUsed);
+        }
+
+        /// Compares high cards in descending order
+        private static int CompareHighCards(List<Card> hand1, List<Card> hand2, int numKickers)
+        {
             var sorted1 = hand1.Select(card => Ranks.IndexOf(card.Rank)).OrderByDescending(r => r).ToList();
             var sorted2 = hand2.Select(card => Ranks.IndexOf(card.Rank)).OrderByDescending(r => r).ToList();
 
-            for (int i = 0; i < sorted1.Count; i++)
+            for (int i = 0; i < numKickers; i++)
             {
                 if (sorted1[i] > sorted2[i]) return 1;
                 if (sorted1[i] < sorted2[i]) return -1;
             }
-            return 0; // Tie
+            return 0;
         }
     }
 }
